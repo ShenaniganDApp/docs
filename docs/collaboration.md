@@ -27,6 +27,7 @@ Try your best to align with Shenanigan's futuristic, techno-punk arcade style.
 We like to pretend that we are building an 80's arcade in the year 2080 😁.
   
   **[Tips]()**
+  
   * Check our design doc *(coming soon)*
   * Ask @team on the discord for pointers.
   * Check out our [colony](https://colony.io/colony/shenanigan) for open bounties. Usually we give DAI rewards for projects. 
