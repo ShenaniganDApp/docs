@@ -9,7 +9,7 @@ docs_dir: docs
 nav:
     - Home: index.md
     - About: about.md
-    - Collaborate: collaboration.md
+    - Contribution Guide: contribution.md
 theme:
     name: material
     custom_dir: 'material'
