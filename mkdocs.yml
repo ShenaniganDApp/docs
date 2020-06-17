@@ -14,14 +14,14 @@ theme:
     name: material
     custom_dir: 'material'
     palette:
-      primary: '#ff006c'
-      accent: '#ff006c'
+      primary: 'pink'
+      accent: 'pink'
     language: 'en'
 
 extra:
     palette:
-      primary: '#ff006c'
-      accent: '#ff4'
+      primary: 'pink'
+      accent: 'amber'
     # social:
     # - type: 'comment-o'
     #   link: 'http://she.energy/join/'
