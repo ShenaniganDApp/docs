@@ -2,3 +2,4 @@ site_name: Shenanigan Wiki
 nav:
     - Home: index.md
     - About: about.md
+    - Collaborate: Collaboration.md
