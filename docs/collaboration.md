@@ -1,40 +1,43 @@
-# 👊️ *SHE WANTS YOU* 👊️
+## 👊️ *SHE WANTS YOU* 👊️
 
-## Collaborate with us 👫️
+### Collaborate with us 👫️
 
-Shenanigan takes pride in maintaining open source code and encouraging community engagement. 
-Not only will open source garner higher trust factor, we believe in the community as builders. Bloggers, developers, social media unicorns, and the rest of you see all valued here. 
+Shenanigan takes pride in maintaining an open source and engaging community. 
+Not only does open source garner a higher trust factor, we believe in the community as builders. Bloggers, developers, social media unicorns, however you make your mark, you are valued.
 
-## Where to look 🔎️
+### Where to begin 🔎️
 
-The first step you should take to collaborate is joining the [Discord](http://www.she.energy/join). 
+The first step is joining the [Discord](http://www.she.energy/join). 
 
-Our discord is where we communicate our ideas, hold discussions, and make friends so introduce yourself, onboard your accounts into our cred system, and then read the rest of this doc.
+In our discord is we communicate ideas, hold discussions, and make friends so introduce yourself, onboard your addresses in [#onboarding](https://discord.gg/pmTCTJw), and then read on.
 
-We love to hear your comments and feedback so feel free to share. We promise to give honest opinions only.
+We love hearing comments and feedback so please, feel free to share. We promise to be nice and give respectful and honest opinions only.
 
 
 
-## Roles
-Shenanigan is decentralized and open source so we don't organize under a hierarchy. Join a collective of individual buidlers and entrepreneurs.
+### Roles
+Shenanigan is decentralized and open source, so we don't operate under a strict corporate hierarchy. Instead we are more like a collective of individual buidlers and entrepreneurs.
 
 ### Designers 🎨️
 
-Designers are coveted in the crypto-space. Nothing makes a project cooler than great visual design. Whether you make art or memes. Try your best to align with Shenanigan's futuristic, techno-punk arcade style.
+Designers are coveted in the crypto dapp sphere. You guys are the beautiful face of Shenanigan. Nothing makes a project cooler than great visual design. Whether you express yourself through art, photography, or memes.
 
-We like to say that we are building an 80's arcade in the year 2050 😁.
+Try your best to align with Shenanigan's futuristic, techno-punk arcade style.
 
+We like to pretend that we are building an 80's arcade in the year 2080 😁.
+  
+  **[Tips]()**
   * Check our design doc *(coming soon)*
-  * Ask the @team in the discord for pointers.
-  * Check out our [colony](http://colony.io/shenanigan) for open bounties. Usually we give DAI rewards for projects. 
+  * Ask @team on the discord for pointers.
+  * Check out our [colony](https://colony.io/colony/shenanigan) for open bounties. Usually we give DAI rewards for projects. 
   * Make something and post it to the discord! You'll earn $PRTCLE tokens and some cred.
 
 
 ### Social Media Unicorns 🦄️
 
-The next link in the chain in Shenanigan's team. We try to keep it as simple as possible at Shenanigan, however a fresh pair of eyes can explain things in fresh, new, innovative lights. If something we're doing generally excites you, please feel free to share and comment your thoughts. 
+Our team's next link in the chain. We try to keep it as simple as possible around Shenanigan, but a fresh pair of eyes are able to explain ideas in new, fresh, and innovative ways. If we're doing something that generally excites you, please feel free to share and comment your thoughts. 
 
-Shenanigan has a [Twitter](https://twitter.com/She_Dapp?s=09). Drop in and follow/retweet and post your link in the Discord.
+Shenanigan is on [Twitter](https://twitter.com/She_Dapp), [Facebook](https://www.facebook.com/shenanigan.dapp/), and [Instagram](). Drop in and follow/retweet and post your link in the Discord.
 
     📖️ Step 1. Learn about Shenanigan
 
@@ -46,7 +49,6 @@ Shenanigan has a [Twitter](https://twitter.com/She_Dapp?s=09). Drop in and follo
 
 
 ### Developers 💻️
+The anchor of this whole operation. Without any code, Shenanigan is just a hollow shell. First, head over to the [github](http://github.com/shenanigandapp) and fork. Each repository's README contains specific collaboration requirements, so follow the instructions. 
 
-Developers are the anchor of the whole operation. Without code, Shenanigan is just a hollow shell. Check out the [github](http://github.com/shenanigandapp) and fork our repositories. Each repository's README contains specific collaboration requirements.
-
-[_note_]()  We are still in heavy alpha development and lots is changing around Shenanigan. So, please ask around in the discord if you're interested. We can set up bounties and accommodate you personally for the time being.
+**[_note_]()**  We are still in heavy alpha development and lots is changing around Shenanigan. So, please ask around in the discord if you're interested. We can set up bounties and accommodate you personally for the time being.
