@@ -10,6 +10,7 @@ nav:
     - Home: index.md
     - About: about.md
     - Contribution Guide: contribution.md
+    - She's intent: sheIntent.md
 theme:
     name: material
     custom_dir: 'material'
