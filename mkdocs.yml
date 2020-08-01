@@ -23,6 +23,9 @@ extra:
     palette:
       primary: 'pink'
       accent: 'amber'
+      
+markdown_extensions:
+  - attr_list
     # social:
     # - type: 'comment-o'
     #   link: 'http://she.energy/join/'
