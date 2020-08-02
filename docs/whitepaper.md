@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHELogo.png" width="500" />
 </figure>
 
-## 🧐 **1 Market Interest** 🧐
+## 1 🧐 **Market Interest** 🧐
 
 ### **1.1 Users** 🤳
 
@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The highest lucrative ventures in history, owning stock or owning property, share the ownership approach. Collectibles capture the essence of ownership ventures and gamify the underlying economics. Past success with cards, such as baseball cards, succeeded for their uniqueness and direct correlation to reality. Baseball players provide a scaling relationship for baseball cards. If a player is doing well** **(or has become a fan favorite) their card increases in price. An athlete’s likeness carries intrinsic value. With Shenanigan, users create, collect, and predict outcomes using cards, forming an "easy to play, but hard to master" interactive experience. It is a multivariable support network that can work for any person at any skill level, without solely relying on views, clicks, donations, and web2 culture.
 
-## 🔭 **2 Vision** 🔭
+## 2 🔭 **Vision** 🔭
 
 
 
@@ -35,7 +35,7 @@
 ---
 
 
-## 🧪 **3 Our Solution** 🧪
+## 3 🧪 **Our Solution** 🧪
 
 ### **3.1 Motivation** 🏆
 
@@ -77,7 +77,7 @@ Each layer stands at a wider frame of Shenanigan, completely supported by the at
 
   * Users choose their opinion
 
-## ✍ **4 Product Description** ✍
+## 4 ✍ **Product Description** ✍
 
 <figure style="text-align:center;">
   <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHEGame%20.png" width="500" />
@@ -122,7 +122,7 @@ Challenges - The Challenge contract holds information about the streamer, partic
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan will have a custom Resolution app for the Aragon DAO. The Resolution app is where holders of $PRTCLE can settle disputes made in Shenanigan app. Each dispute has an ipfs link to the livestream in question, the options from the challenge, and a voting mechanism for $PRTCLE. Disputes can arise from mistakes, crowd voting against the iOn, an iOn playing unfairly, and other unforeseen issues. The resolution app will replace a centralized team of people making decisions. 
 
 
-## 🏭 **5 Business Model** 🏭
+## 5 🏭 **Business Model** 🏭
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ethereum has given the internet new superpowers in the ways of organizing people behind a common goal. DAO's are tools for collaboration and allow Shenanigan to generalize company ownership to pseudo-anonymous parties around the world. SHE's DAO uses the $SHE token to denote ownership. $SHE token owners will organize company funds, legal motions, and vote on decisions about the company.
 
