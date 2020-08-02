@@ -1,7 +1,9 @@
 
 # 📃 **Whitepaper** 📃
 
-![Shenanigan's Logo](images/SHELogo.png "image_tooltip")
+<figure style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHELogo.png" width="500" />
+</figure>
 
 ## 🧐 **1 Market Interest** 🧐
 
@@ -77,8 +79,8 @@ Each layer stands at a wider frame of Shenanigan, completely supported by the at
 
 ## ✍ **4 Product Description** ✍
 
-<figure>
-  <img src="images/SHEGame.png a" width="300" />
+<figure style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHEGame%20.png" width="500" />
   <figcaption>Shenanigan's game layers from the perspective of a particle </figcaption>
 </figure>
 
