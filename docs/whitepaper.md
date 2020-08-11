@@ -1,6 +1,6 @@
 # 📃 **Whitepaper v0.2** 📃
 
-<p align="center"> -written by @youngkidwarrior, @malikvprice<p>
+<p align="center"> -written by @youngkidwarrior, @malikvprice</p>
 
 <figure style="text-align:center;">
   <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHELogo.png" width="500" />
