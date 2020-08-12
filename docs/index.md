@@ -1,8 +1,8 @@
 #  Introduction
 
-Shenanigan is built by athlets for athtletes to bring a different perspective to your everyday life.
+Shenanigan provides a competitive and motivating platform for athletes of all types utilizing fiscal incentives to drive personal improvement.
 
-Shenanigan provides a competitive and motivating platform for athletes of all types utilizing fiscal incentives to drive personal improvement. We are doing this because we believe that athletes should be payed for the hard work that the put in to train and hone their craft. 
+We are doing this because we believe that athletes should be payed for the hard work that the put in to train and hone their craft. Shenanigan is built by athletes for athtletes to bring a different perspective to your everyday life.
 
 Althletes spend many hours of their time, sacrificing relationships, time with friends and family to be able to take their game to the next level. Some are able to make it into that 1 percent of " Profossional" play but most follow their sport to a point then stop because life gets in the way. Well what if we offered a way to be able to continue your sport and gain a little something out of it. To achieve this Shenanigan has developed a platform for you to showcase your skills and talents to wager them against others. This is done by having a community of your pears and sometimes adversaries to judge the challenge that has been set. The Ions(users) will charge the Particles(streamer) based on if they are for or against them.
 
