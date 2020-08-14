@@ -1,6 +1,8 @@
-# 📃 **Whitepaper v0.2** 📃
+# 📃 **Whitepaper** 📃
 
-<p align="center"> -written by @youngkidwarrior, @malikvprice</p>
+<h4 align="center"> Version 0.2 </h4>
+<h4 align="center"> written by @youngkidwarrior  @malikvprice</h4>
+<h4 align="center"><a> Live Version</a></h4>
 
 <figure style="text-align:center;">
   <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHELogo.png" width="500" />
@@ -8,15 +10,15 @@
 
 ## **1 Summary**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A mobile-frontend service for buying, selling, trading, and gaming provably rare sports trading cards. Athletes on Instagram, Twitter, Twitch, Youtube, etc can issue their own series of trading cards to capture their growth as an athlete. These cards are secured with blockchain technology and carry provable uniqueness, i.e each card is its own and cannot be replicated. Cards can be bought/sold/traded in the Shenanigan app, on OpenSea or anywhere that accepts ERC721 standard NFT tokens.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A mobile-frontend service for buying, selling, trading, and gaming provably rare sports trading cards. Athletes on Instagram, Twitter, Twitch, Youtube, etc can issue their own series of trading cards to capture their image and personal growth. These cards are secured with blockchain technology and carry provable uniqueness, i.e each card is its own and cannot be replicated. Cards can be bought/sold/traded in the Shenanigan app, on OpenSea or anywhere that accepts ERC721 standard NFT tokens.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan offers a [LivePeer](https://livepeer.org/) livestream for athletes to promote themselves and their cards. Athletes set challenges to complete on stream, and show off their personal growth. Users can stake Shenanigan cards against one another on predictions of the results. Correct predictions receive the staked cards
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan offers a [LivePeer](https://livepeer.org/) livestream for athletes to promote themselves and their cards. Athletes set challenges to complete on stream, and show off their personal growth. Users can stake Shenanigan cards against one another on predictions of the results. Correct predictions receive the staked cards.
 
 ## **2 🧐 Market Interest** 🧐
 
 ### **2.1 Users** 🤳
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan will begin with the individual first. With all the social media available today, a new sense of individuality has risen in the public sphere. Celebrities are made overnight for reasons not many can explain and/or comprehend. People enjoy watching other people live their lives. Recently, live streaming has grown in popularity with the advent of Twitch, Instagram, Facebook, and Twitter. The live stream brings a new sense of involvement with the individual and the audience, where a direct feedback loop can be established as the streamer grows and the community grows with them. _Motivation?_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan will begin with the individual first. With all the social media available today, a new sense of individuality has risen in the public sphere. Celebrities are made overnight for reasons not many can explain and/or comprehend. People enjoy watching other people live their lives. Recently, live streaming has grown in popularity with the advent of Twitch, Instagram, Facebook, and Twitter. The live stream brings a new sense of involvement with the individual and the audience, where a direct feedback loop can be established as the streamer grows and the community grows with them.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The livestream services that were previously listed have moved as much joy as they have revenue through the system, however, these services are not without flaws. A fundamental flaw being the 1% problem, which states 1% of streamers on a platform will make 50% of the revenue. The 1% problem results naturally from Web2 platforms’ primary source of revenue, donations and ads. These revenue streams sum up to a single point of failure, the viewers. Reliance on viewer totals makes a hostile environment where most streamers scrounge at the bottom with little to nothing. Shenanigan wants to alleviate this harsh paradigm by adding more revenue streams that will not directly correlate with viewer numbers.
 
@@ -26,7 +28,7 @@
 
 ### **2.3 Collectible Cards?** 🎴
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The highest lucrative ventures in history, owning stock or owning property, share the ownership approach. Collectibles capture the essence of ownership ventures and gamify the underlying economics. Past success with cards, such as baseball cards, succeeded for their uniqueness and direct correlation to reality. Baseball players provide a scaling relationship for baseball cards. If a player is doing well\*\* \*\*(or has become a fan favorite) their card increases in price. An athlete’s likeness carries intrinsic value. With Shenanigan, users create, collect, and predict outcomes using cards, forming an "easy to play, but hard to master" interactive experience. It is a multivariable support network that can work for any person at any skill level, without solely relying on views, clicks, donations, and web2 culture.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The highest lucrative ventures in history, owning stock or owning property, share the ownership approach. Collectibles capture the essence of ownership ventures and gamify the underlying economics. Past success with cards, such as baseball cards, succeeded for their uniqueness and direct correlation to reality. Baseball players provide a scaling relationship for baseball cards. If a player is doing well (or has become a fan favorite) their card increases in price. An athlete’s likeness carries intrinsic value. With Shenanigan, users create, collect, and predict outcomes using cards, forming an "easy to play, but hard to master" interactive experience. It is a multivariable support network that can work for any person at any skill level, without solely relying on views, clicks, donations, and web2 culture.
 
 ## **3 🔭 Vision** 🔭
 
