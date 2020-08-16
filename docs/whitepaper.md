@@ -2,7 +2,9 @@
 
 <h4 align="center"> Version 0.2 </h4>
 <h4 align="center"> written by @youngkidwarrior  @malikvprice</h4>
-<a> <h4 align="center">Live Version</h4></a>
+<a href="https://docs.google.com/document/d/1EEpHczeRYLRyrRiSeA_FI1l2PDfSMLt3VEtrRJDpKiA/edit?usp=sharing" > 
+  <h4 align="center">Live Version</h4>
+</a>
 
 <figure style="text-align:center;">
   <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHELogo.png" width="500" />
