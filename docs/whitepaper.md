@@ -85,7 +85,7 @@ Each layer stands at a wider frame of Shenanigan, completely supported by the at
 ## **4 ✍ Product Description** ✍
 
 <figure style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHEGame%20.png" width="500" />
+  <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHEGame.png" width="500" />
   <figcaption>Shenanigan's game layers from the perspective of a particle </figcaption>
 </figure>
 

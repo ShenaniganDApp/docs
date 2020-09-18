@@ -1,0 +1,844 @@
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Learn about Shenanigan">
+      
+      
+        <link rel="canonical" href="https://she.energy/wiki/whitepaper/">
+      
+      
+        <meta name="author" content="Shenanigan Core Team">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-5.2.3">
+    
+    
+      
+        <title>Whitepaper - Shenanigan Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.b8fb47b5.min.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/palette.36d1b78f.min.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#e91e63">
+      
+    
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="pink" data-md-color-accent="pink">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#whitepaper" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="https://she.energy/wiki" title="Shenanigan Wiki" class="md-header-nav__button md-logo" aria-label="Shenanigan Wiki">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Shenanigan Wiki
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Whitepaper
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active">
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header-nav__source">
+        
+<a href="https://github.com/ShenaniganDApp/wiki/" title="Go to repository" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    /wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+        
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://she.energy/wiki" title="Shenanigan Wiki" class="md-nav__button md-logo" aria-label="Shenanigan Wiki">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Shenanigan Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/ShenaniganDApp/wiki/" title="Go to repository" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    /wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Whitepaper
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 9h14V7H3v2m0 4h14v-2H3v2m0 4h14v-2H3v2m16 0h2v-2h-2v2m0-10v2h2V7h-2m0 6h2v-2h-2v2z"/></svg>
+        </span>
+      </label>
+    
+    <a href="./" title="Whitepaper" class="md-nav__link md-nav__link--active">
+      Whitepaper
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    Summary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-market-interest" class="md-nav__link">
+    1 🧐 Market Interest 🧐
+  </a>
+  
+    <nav class="md-nav" aria-label="1 🧐 Market Interest 🧐">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-users" class="md-nav__link">
+    1.1 Users 🤳
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-sports" class="md-nav__link">
+    1.2 Sports? 🤸‍♀️
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-collectible-cards" class="md-nav__link">
+    1.3 Collectible Cards? 🎴
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-vision" class="md-nav__link">
+    2 🔭 Vision 🔭
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-our-solution" class="md-nav__link">
+    3 🧪 Our Solution 🧪
+  </a>
+  
+    <nav class="md-nav" aria-label="3 🧪 Our Solution 🧪">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-motivation" class="md-nav__link">
+    3.1 Motivation 🏆
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-gamifying" class="md-nav__link">
+    3.2 Gamifying 🕹
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-challenges-and-predictions" class="md-nav__link">
+    3.3 Challenges and Predictions ✨
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-ions-and-particles" class="md-nav__link">
+    3.4 iOns and Particles 💏
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-community" class="md-nav__link">
+    3.5 Community 🤝
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-product-description" class="md-nav__link">
+    4 ✍ Product Description ✍
+  </a>
+  
+    <nav class="md-nav" aria-label="4 ✍ Product Description ✍">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-mobile-app" class="md-nav__link">
+    4.1 Mobile App 📱
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-contracts" class="md-nav__link">
+    4.2 Contracts 📜
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#43-community" class="md-nav__link">
+    4.3 Community 👨‍👩‍👦
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#44-aragon-dao-and-resolution-app" class="md-nav__link">
+    4.4 Aragon DAO and Resolution App 🏛
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-business-model" class="md-nav__link">
+    5 🏭 Business Model 🏭
+  </a>
+  
+    <nav class="md-nav" aria-label="5 🏭 Business Model 🏭">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-revenue" class="md-nav__link">
+    5.1 Revenue 💰
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-work" class="md-nav__link">
+    5.2 Work 👷‍♂️
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-open-source" class="md-nav__link">
+    5.3 Open-Source 📖
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-mvp-vs-pivot" class="md-nav__link">
+    5.4 MVP vs. Pivot 🔮
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../contribution/" title="Contribution Guide" class="md-nav__link">
+      Contribution Guide
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../sheIntent/" title="She's Intent" class="md-nav__link">
+      She's Intent
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    Summary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-market-interest" class="md-nav__link">
+    1 🧐 Market Interest 🧐
+  </a>
+  
+    <nav class="md-nav" aria-label="1 🧐 Market Interest 🧐">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-users" class="md-nav__link">
+    1.1 Users 🤳
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-sports" class="md-nav__link">
+    1.2 Sports? 🤸‍♀️
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-collectible-cards" class="md-nav__link">
+    1.3 Collectible Cards? 🎴
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-vision" class="md-nav__link">
+    2 🔭 Vision 🔭
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-our-solution" class="md-nav__link">
+    3 🧪 Our Solution 🧪
+  </a>
+  
+    <nav class="md-nav" aria-label="3 🧪 Our Solution 🧪">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-motivation" class="md-nav__link">
+    3.1 Motivation 🏆
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-gamifying" class="md-nav__link">
+    3.2 Gamifying 🕹
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-challenges-and-predictions" class="md-nav__link">
+    3.3 Challenges and Predictions ✨
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-ions-and-particles" class="md-nav__link">
+    3.4 iOns and Particles 💏
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-community" class="md-nav__link">
+    3.5 Community 🤝
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-product-description" class="md-nav__link">
+    4 ✍ Product Description ✍
+  </a>
+  
+    <nav class="md-nav" aria-label="4 ✍ Product Description ✍">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-mobile-app" class="md-nav__link">
+    4.1 Mobile App 📱
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-contracts" class="md-nav__link">
+    4.2 Contracts 📜
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#43-community" class="md-nav__link">
+    4.3 Community 👨‍👩‍👦
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#44-aragon-dao-and-resolution-app" class="md-nav__link">
+    4.4 Aragon DAO and Resolution App 🏛
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-business-model" class="md-nav__link">
+    5 🏭 Business Model 🏭
+  </a>
+  
+    <nav class="md-nav" aria-label="5 🏭 Business Model 🏭">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-revenue" class="md-nav__link">
+    5.1 Revenue 💰
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-work" class="md-nav__link">
+    5.2 Work 👷‍♂️
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-open-source" class="md-nav__link">
+    5.3 Open-Source 📖
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-mvp-vs-pivot" class="md-nav__link">
+    5.4 MVP vs. Pivot 🔮
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/ShenaniganDApp/wiki/edit/master/docs/whitepaper.md" title="Edit this page" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                  
+                
+                
+                <h1 id="whitepaper">📃 <strong>Whitepaper</strong> 📃</h1>
+<h4 align="center"> Version 0.2 </h4>
+
+<h4 align="center"> written by @youngkidwarrior  @malikvprice</h4>
+
+<p><a href="https://docs.google.com/document/d/1EEpHczeRYLRyrRiSeA_FI1l2PDfSMLt3VEtrRJDpKiA/edit?usp=sharing" > 
+  <h4 align="center">Live Version</h4>
+</a></p>
+<figure style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHELogo.png" width="500" />
+</figure>
+
+<h2 id="summary"><strong>Summary</strong></h2>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A mobile-frontend service for buying, selling, trading, and gaming provably rare sports trading cards. Athletes on Instagram, Twitter, Twitch, Youtube, etc can issue their own series of trading cards to capture their image and personal growth. These cards are secured with blockchain technology and carry provable uniqueness, i.e each card is its own and cannot be replicated. Cards can be bought/sold/traded in the Shenanigan app, on OpenSea or anywhere that accepts ERC721 standard NFT tokens.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan offers a <a href="https://livepeer.org/">LivePeer</a> livestream for athletes to promote themselves and their cards. Athletes set challenges to complete on stream, and show off their personal growth. Users can stake Shenanigan cards against one another on predictions of the results. Correct predictions receive the staked cards.</p>
+<h2 id="1-market-interest"><strong>1 🧐 Market Interest</strong> 🧐</h2>
+<h3 id="11-users"><strong>1.1 Users</strong> 🤳</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan will begin with the individual first. With all the social media available today, a new sense of individuality has risen in the public sphere. Celebrities are made overnight for reasons not many can explain and/or comprehend. People enjoy watching other people live their lives. Recently, live streaming has grown in popularity with the advent of Twitch, Instagram, Facebook, and Twitter. The live stream brings a new sense of involvement with the individual and the audience, where a direct feedback loop can be established as the streamer grows and the community grows with them.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The livestream services that were previously listed have moved as much joy as they have revenue through the system, however, these services are not without flaws. A fundamental flaw being the 1% problem, which states 1% of streamers on a platform will make 50% of the revenue. The 1% problem results naturally from Web2 platforms’ primary source of revenue, donations and ads. These revenue streams sum up to a single point of failure, the viewers. Reliance on viewer totals makes a hostile environment where most streamers scrounge at the bottom with little to nothing. Shenanigan wants to alleviate this harsh paradigm by adding more revenue streams that will not directly correlate with viewer numbers.</p>
+<h3 id="12-sports"><strong>1.2 Sports?</strong> 🤸‍♀️</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports have famously been victim to the 1% problem. Also, known as the <a href="https://www.google.com/url?q=https://intenseminimalism.com/2010/the-superstar-effect-being-the-best-even-slightly-triggers-huge-advantages/&amp;sa=D&amp;ust=1595625593280000&amp;usg=AFQjCNGhltcREqgf36zbG059BOkaVoeRIg">superstar effect</a>, “Superstars ... reap so many more rewards than peers who are only slightly less talented”. Tens of thousands of athletes quit their passion because they're just outside the professional sphere. 1% of athletes have the perfect combination of skill and luck to become professionals with sponsorships and salaries. Non-professional athletes juggle intense practice schedules, travel fees, and intense competition, working toward a dream. They dedicate their lives to their sport with no recognition, and meanwhile \$29,000,000 of revenue is generated during the month of <a href="https://www.boydsbets.com/much-bet-march-madness/">March Madness.</a> All athletes should be paid to practice. All athletes should have the opportunity to grow their own brand. All athletes should be recognized in the public sphere. Ethereum provides a fair medium to exchange value where payouts can be dealt accordingly to support content creators. With Ethereum, Shenanigan will provide a platform built by athletes for athletes to give them the support they need.</p>
+<h3 id="13-collectible-cards"><strong>1.3 Collectible Cards?</strong> 🎴</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The highest lucrative ventures in history, owning stock or owning property, share the ownership approach. Collectibles capture the essence of ownership ventures and gamify the underlying economics. Past success with cards, such as baseball cards, succeeded for their uniqueness and direct correlation to reality. Baseball players provide a scaling relationship for baseball cards. If a player is doing well (or has become a fan favorite) their card increases in price. An athlete’s likeness carries intrinsic value. With Shenanigan, users create, collect, and predict outcomes using cards, forming an "easy to play, but hard to master" interactive experience. It is a multivariable support network that can work for any person at any skill level, without solely relying on views, clicks, donations, and web2 culture.</p>
+<h2 id="2-vision"><strong>2 🔭 Vision</strong> 🔭</h2>
+<hr />
+<h2 align="center">&nbsp;&nbsp;Shenanigan provides a competitive and motivating platform for athletes of all types utilizing fiscal incentives to drive personal improvement.</h2>
+
+<hr />
+<h2 id="3-our-solution"><strong>3 🧪 Our Solution</strong> 🧪</h2>
+<h3 id="31-motivation"><strong>3.1 Motivation</strong> 🏆</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan generates revenue from various opportunities within athlete’s lives, including practice, scrimmages, and. competition. Being an athlete is primarily a “get paid to play” profession. Nothing is given for the countless hours practicing. A Shenanigan stream during practice can generate income as well as motivation. Distinguishing this from other platforms, mainly Youtube, Instagram, or Twitch, Shenanigan is a platform built by athletes for athletes. Youtube, Instagram, and Twitch place a heavy focus on entertainment over personal development. Many unique people struggle with this as they follow formulas and protocols to increase viewer, follow, and subscription numbers, instead of focusing on doing better in life. These platforms create an overhead that hinders more than helps athletes. Shenanigan’s design focuses on the competition factor more than entertainment. Shenanigan asks “How much better at X can this person get?”</p>
+<h3 id="32-gamifying"><strong>3.2 Gamifying</strong> 🕹</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Athletes understand two things over all else, winning and losing. Shenanigan will avoid obstructing this determination by hyperfocusing on the goal. Therefore, the athlete will only see his/her goal, the in-app community will see the goal and the predictions, and everybody else outside will see all these as well as card trading.</p>
+<p>There are layers of games.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <em>Layer 1. Athlete plays their sport</em></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <em>Layer 2. Particles predict with NRG Cards</em></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <em>Layer 3. Community members buy/sell/trade NRG cards</em></p>
+<p>Each layer stands at a wider frame of Shenanigan, completely supported by the athlete. Where other platforms require the athlete to be an entertainer, it is more about them playing their sport. Our growth relies on athletes’ growth. Setting goals, achieving those goals, and setting new goals is a cycle any athlete will find familiar. Shenanigan is built with these goals in center focus and the ecosystem is rooted from this competition between those who believe and do not believe in the athlete.</p>
+<h3 id="33-challenges-and-predictions"><strong>3.3 Challenges and Predictions</strong> ✨</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan uses challenges and predictions to gamify the live streams. Challenges are personal goals of the athlete on stream. An athlete will assign criteria for their success at a given task e.g. running a mile in under 5 minutes. The stream viewers will then make predictions about the outcome of the athlete's challenge. A viewer who has made a prediction is known as a particle. Particles will stake their prediction against another opposing particle’s prediction. Whichever particle gets it right wins the staked NRG cards.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predictions also function as an incentivization medium for the athletes. Each time a prediction is made, a small percentage of the total value is put into escrow. Once an athlete succeeds with their challenge, the value is released from escrow along with a bonus reward from the community. This money, along with donations and card trades, makes up the total value earned.</p>
+<h3 id="34-ions-and-particles"><strong>3.4 iOns and Particles</strong> 💏</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Shenanigan game consists of iOns and particles using NRG cards to play. iOns are streamers, particles are viewers and She Cards will be the NFT token used in challenges. Particles are negatively and positively charged depending on their predictions<strong>. </strong>As you may surmise, particles that place their predictions for the ion(streamer) are positively charged, adversely predictions against the ion are negatively charged. What fuels you? Is it the support of your fans or the challenge of the opposition? At Shenanigan we incentivize athletes to improve their skills as individuals and a strong community is the foundation for this.</p>
+<h3 id="35-community"><strong>3.5 Community</strong> 🤝</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparable to baseball cards, NRG cards will track unique stats and attributes that pertain to the iOn. These stats will help you gain more fans because users will base their acquisitions on them. As you grow and complete more challenges we will update your NRG card to reflect those stats. Followers become more than just followers. Instead they are owners with skin in the games. Specifically the athlete’s game. Owners of an athlete’s card will want to see improvement.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan starts and ends with its community, without them, there is no app. The athletes’ drive and dedication keep the platform interesting, and the support from particles keep the platform alive. Anyone can become an iON or be a part of an iOns journey. <em>The power is with the user</em></p>
+<ul>
+<li>
+<p>Users choose streamers</p>
+</li>
+<li>
+<p>Users choose value</p>
+</li>
+<li>
+<p>Users choose their opinion</p>
+</li>
+</ul>
+<h2 id="4-product-description"><strong>4 ✍ Product Description</strong> ✍</h2>
+<figure style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHEGame.png" width="500" />
+  <figcaption>Shenanigan's game layers from the perspective of a particle </figcaption>
+</figure>
+
+<h3 id="41-mobile-app"><strong>4.1 Mobile App</strong> 📱</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan hosts live streams for athletes to join and wager their success. The face of Shenanigan mobile app is the stream where athletes are elected to perform. This stream keeps track of challenges, donations, chat, and challenge affiliations. Athletes will propose challenges with various options related to their failure or success of their sport. A Shenanigan particle can then put a card or cards up against another particle’s and the successful prediction wins the cards.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOns fill out a challenge form, describing their goals and filling in possible outcomes, which will be entered in Shenanigan’s election. Through this election process, iOns garner donations to be voted into the stream by the community. As a protective measure, if the people feel like the iOn is bogging down the stream or not performing, particles can vote to kick the iOn off stream, reverting all open predictions and returning election donations. Alongside the vote to kick, Shenanigan holds two other crucial votes. Shenanigan requires a fair process to decide the outcome of the challenge. Once the iOn finishes his or her attempt, they choose the outcome they believe best fits with their results. Once the iOn has chosen an option, the particles are allowed to vote on which option they believe best fits. The iOn vote and the majority particle vote are compared. If both are in agreement, then the challenge is resolved and the athlete earns their donations from the beginning election. However, if an agreement can not be met, the challenge is sent to the Shenanigan’s Decentralized Autonomous Organization (DAO) to be resolved by a trusted, decentralized vote.</p>
+<h3 id="42-contracts"><strong>4.2 Contracts</strong> 📜</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan uses smart contracts to handle the prediction logic and ensure a fair and trusted process. Three primary category of contract make up the Shenanigan ecosystem, election, cards, and challenges.</p>
+<p>Election - An Election contract will hold a list of current challenges available to be streamed. Particles can donate to each candidate in the election to promote them to go next. Any money donated will go to the streamer upon completion.</p>
+<p>Cards - NRG Cards are ERC 721 contracts that hold information about the athlete, such as the athlete’s DAO address, card rarity, name and description, etc. Athletes will link a DAO to each NRG Card, which is used to sell cards, hold revenue, and interact with card owners.</p>
+<p>Challenges - The Challenge contract holds information about the streamer, particles, and results of the challenge. Particle predictions are also held in this contract, listing the NRG cards involved. The challenge contracts hold most of the value being passed around inside the Shenanigan app.</p>
+<h3 id="43-community"><strong>4.3 Community</strong> 👨‍👩‍👦</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan will require reliable and direct communication to maintain a beneficial, fair, and prosperous app environment.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHE’s Discord is our bridge for web2 into web3. Discord acts as a meeting place, feedback center, and poster board for the app. Users can introduce themselves, get updates, write feedback, and join the team all in one place. On top of that, Shenanigan is integrated with Sourcecred and Aragon to provide a direct link into Shenanigan's decentralized app ecosystem. This way the Discord community is not only connected verbally, but fiscally also.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHE's iOns are critical actors in Shenanigan's community, as they are the creators. We at Shenanigan want to promote healthy competition within themselves and their respective sports. Shenanigan builds itself around the desire of iOns. For that reason, protecting athletes is essential. As athletes, they are naturally strong, however, they are not immune to the world. Shenanigan supports competition, but it is also fully aware of the negativity it can bring. To protect our athletes, we will have SHE's admins. These elected officials will be arbitrators of fairness, ensuring hate speech and harassment is not tolerated by moderating the app chat and Discord. iOns and particles will be given the option to turn the admin filters on and off individually.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHE's live chat is a primary in-app feature, providing a direct contact thread from particle to iOn. Chat will highlight particle donations, predictions, and challenge results along with viewer feedback for the streamer.</p>
+<h3 id="44-aragon-dao-and-resolution-app"><strong>4.4 Aragon DAO and Resolution App</strong> 🏛</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan runs off of two tokens, an ownership token $SHE and a community token $PRTCLE. Each token represents a piece of Shenanigan’s company ecosystem. \$SHE tokens, which represent shares in Shenanigan itself, are a business layer token. These tokens represent legal dividends of Shenanigan Tech LLC, the legal wrapper built for the DAO. Changes that not only affect the community, but also the company as a whole are ordained to this token.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$PRTCLE is Shenanigan's community token. This is our <a href="https://sourcecred.io/docs/concepts/grain"> $GRAIN</a>, given to community contributors based on a weighted graph protocol. This token directly affects in-app developments and is Shenanigan's “skin in the game” token. \$PRTCLE holders will earn salary, vote on challenge disputes, and vote on future features. Contribution can come from being an active participant in discord, twitter, writing blog posts, drawing art, or writing code. Decentralized growth is an intrinsic part of Shenanigan’s ecosystem to ensure weare providing a platform that is fair for everyone.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan will have a custom Resolution app for the Aragon DAO. The Resolution app is where holders of $PRTCLE can settle disputes made in Shenanigan app. Each dispute has an ipfs link to the livestream in question, the options from the challenge, and a voting mechanism for $PRTCLE. Disputes can arise from mistakes, crowd voting against the iOn, an iOn playing unfairly, and other unforeseen issues. The resolution app will replace a centralized team of people making decisions.</p>
+<h2 id="5-business-model"><strong>5 🏭 Business Model</strong> 🏭</h2>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ethereum has given the internet new superpowers in the ways of organizing people behind a common goal. DAO's are tools for collaboration and allow Shenanigan to generalize company ownership to pseudo-anonymous parties around the world. SHE's DAO uses the $SHE token to denote ownership. $SHE token owners will organize company funds, legal motions, and vote on decisions about the company.</p>
+<h3 id="51-revenue"><strong>5.1 Revenue</strong> 💰</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan aims to turn profit. We will do this using two primary revenue streams, trading NRG cards and placing predictions on streams. To generate revenue, we can take small percentage cuts (1%-2%) of each prediction’s total value as well as offer a flat trading fee. This generates passive income for Shenanigan's owners and contributors while avoiding charging for the app and doing in-app purchases. Donations are another option open for users, however, this will most likely not be a primary sources.</p>
+<h3 id="52-work"><strong>5.2 Work</strong> 👷‍♂️</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan uses the remote-first work model, meaning all work done for Shenanigan is done remotely. Running off SourceCred provides a merit-based system to divide salary. Bounties can be created to further highlight important tasks and features that require meeting a strict deadline.</p>
+<h3 id="53-open-source"><strong>5.3 Open-Source</strong> 📖</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The entirety of Shenanigan Tech LLC is rooted in the open source mantra. Our code is hosted on GitHub. Company funds are handled through the DAO, and marketing/memes are made in the Discord. It is Shenanigan's duty to keep a transparent and accessible business so trust may run deep through the company body.</p>
+<h3 id="54-mvp-vs-pivot"><strong>5.4 MVP vs. Pivot</strong> 🔮</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan has future plans to expand app functionality in order to reach further niche users. Currently, Shenanigan's app model only contains a single stream where a single athlete can be elected to host a challenge. Shenanigan v2 plans to have multiple streams separated by categories where users can branch off to allow for a larger athlete throughput. This will allow Shenanigan to help a wider range of people and provide a wider range of content.</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href=".." title="Home" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Home
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../contribution/" title="Contribution Guide" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Contribution Guide
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/vendor.de50e36d.min.js"></script>
+      <script src="../assets/javascripts/bundle.5ad6861d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents"}</script>
+      
+      <script>
+        app = initialize({
+          base: "..",
+          features: [],
+          search: Object.assign({
+            worker: "../assets/javascripts/worker/search.7a2ea5ba.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
