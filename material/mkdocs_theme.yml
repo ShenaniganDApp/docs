@@ -51,7 +51,6 @@ font:
 # From Material 5.x on, icons are inlined into the HTML and CSS as SVGs. Some
 # icons that are part of the HTML can be configured and replaced
 icon:
-
 # Favicon to be rendered
 favicon: assets/images/favicon.png
 
