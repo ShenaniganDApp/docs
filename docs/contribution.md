@@ -9,7 +9,7 @@ Not only does open source garner a higher trust factor, we believe in the commun
 
 The first step is joining the [Discord](http://www.she.energy/join). 
 
-In our discord is we communicate ideas, hold discussions, and make friends so introduce yourself, onboard your addresses in [#onboarding](https://discord.gg/pmTCTJw), and then read on.
+In our discord is we communicate ideas, hold discussions, and make friends so [introduce](https://discord.gg/3N6YRD4) yourself first and then read on.
 
 We love hearing comments and feedback so please, feel free to share. We promise to be nice and give respectful and honest opinions only.
 
