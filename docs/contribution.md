@@ -50,6 +50,6 @@ Shenanigan is on [Twitter](https://twitter.com/She_Dapp), [Facebook](https://www
 
 
 ### Developers 💻️
-The anchor of this whole operation. Without any code, Shenanigan is just a hollow shell. First, head over to the [github](http://github.com/shenanigandapp) and fork the monorepo. Each repository's README contains specific collaboration requirements, so follow the instructions. 
+The anchor of this whole operation. Without any code, Shenanigan is just a hollow shell. First, head over to the [github](http://github.com/shenanigandapp) and fork the monorepo. Get the code you want to work on to compile by following the READMEs. Then, read our [Contributing Guidelines](https://github.com/ShenaniganDApp/shenanigan-monorepo/blob/master/Contributing.md) to understand how we structure our repos.
 
-**[_note_]()**  We are still in heavy alpha development and lots is changing around Shenanigan. So, please ask around in the discord if you're interested. We can set up bounties and accommodate you personally for the time being.
+**[_note_]()**  We are still in heavy alpha development and lots is changing around Shenanigan. So, please ask around in the discord if you're interested. We can accommodate you personally for the time being if any issues arise.
