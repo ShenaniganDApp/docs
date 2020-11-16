@@ -44,8 +44,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#310041',
-    secondaryColor: '#22002d',
+    primaryColor: '#000000',
+    secondaryColor: '#7F7F7F',
   },
 
   /* Custom fonts for website */
@@ -87,10 +87,10 @@ const siteConfig = {
   // docsSideNavCollapsible: true,
 
   // Show documentation's last contributor's name.
-  // enableUpdateBy: true,
+  enableUpdateBy: true,
 
   // Show documentation's last update time.
-  // enableUpdateTime: true,
+  enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
