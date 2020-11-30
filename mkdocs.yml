@@ -10,7 +10,7 @@ nav:
     - Home: index.md
     - Whitepaper: whitepaper.md
     - Contribution Guide: contribution.md
-    - Shenanigan For Athletes: athlete.md 
+    - Athletes: athletes.md 
 theme:
     name: material
     custom_dir: 'material'
