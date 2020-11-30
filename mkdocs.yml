@@ -10,7 +10,7 @@ nav:
     - Home: index.md
     - Whitepaper: whitepaper.md
     - Contribution Guide: contribution.md
-    - She's Intent: sheIntent.md
+    - Shenanigan For Athletes: athlete.md 
 theme:
     name: material
     custom_dir: 'material'
