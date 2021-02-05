@@ -1,13 +1,13 @@
 module.exports = {
 	title: 'SHE Wiki',
 	tagline: 'SHE wants you to win',
-	url: 'https://she.energy/wiki',
+	url: 'https://she.energy/docs',
 	baseUrl: '/',
 	onBrokenLinks: 'warn',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.png',
 	organizationName: 'ShenaniganDApp', // Usually your GitHub org/user name.
-	projectName: 'she-wiki', // Usually your repo name.
+	projectName: 'wiki', // Usually your repo name.
 	themeConfig: {
 		navbar: {
 			title: 'Shenanigans',
