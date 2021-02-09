@@ -10,11 +10,11 @@ module.exports = {
 	projectName: 'wiki', // Usually your repo name.
 	themeConfig: {
 		navbar: {
-			title: 'Shenanigans',
+			title: 'Shenanigan',
 			logo: {
 				alt: 'Shenanigan Logo',
 				src: 'img/SHELogo.png',
-				href: '/home',
+				href: '/docs',
 			},
 			items: [
 				{
@@ -93,7 +93,7 @@ module.exports = {
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
 					editUrl:
-						'https://github.com/facebook/docusaurus/edit/master/website/',
+						'https://github.com/ShenaniganDApp/wiki/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
