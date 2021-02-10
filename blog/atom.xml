@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://she.energy/blog</id>
+    <id>https://shenaniganDApp.github.io/blog</id>
     <title>SHE Docs Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://she.energy/blog"/>
+    <link rel="alternate" href="https://shenaniganDApp.github.io/blog"/>
     <subtitle>SHE Docs Blog</subtitle>
-    <icon>https://she.energy/img/favicon.png</icon>
+    <icon>https://shenaniganDApp.github.io/img/favicon.png</icon>
 </feed>
