@@ -1,5 +1,5 @@
 module.exports = {
-	title: 'SHE Wiki',
+	title: 'SHE Docs',
 	tagline: 'SHE wants you to win',
 	url: 'https://she.energy/docs',
 	baseUrl: '/',
@@ -7,7 +7,7 @@ module.exports = {
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.png',
 	organizationName: 'ShenaniganDApp', // Usually your GitHub org/user name.
-	projectName: 'wiki', // Usually your repo name.
+	projectName: 'docs', // Usually your repo name.
 	themeConfig: {
 		navbar: {
 			title: 'Shenanigan',
@@ -93,7 +93,7 @@ module.exports = {
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
 					editUrl:
-						'https://github.com/ShenaniganDApp/wiki/',
+						'https://github.com/ShenaniganDApp/docs/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
