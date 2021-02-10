@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.io/shenanigandapp/blog</id>
+    <id>https://shenanigandapp.github.io/blog</id>
     <title>SHE Docs Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.io/shenanigandapp/blog"/>
+    <link rel="alternate" href="https://shenanigandapp.github.io/blog"/>
     <subtitle>SHE Docs Blog</subtitle>
-    <icon>https://github.io/shenanigandapp/img/favicon.png</icon>
+    <icon>https://shenanigandapp.github.io/img/favicon.png</icon>
 </feed>
