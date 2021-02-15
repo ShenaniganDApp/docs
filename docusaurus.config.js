@@ -2,7 +2,7 @@ module.exports = {
 	title: 'SHE Docs',
 	tagline: 'SHE wants you to win',
 	url: 'https://she.energy/docs',
-	baseUrl: '/',
+	baseUrl: '/docs/',
 	onBrokenLinks: 'warn',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.png',
@@ -14,12 +14,11 @@ module.exports = {
 			logo: {
 				alt: 'Shenanigan Logo',
 				src: 'img/SHELogo.png',
-				href: '/docs',
+				href: '/',
 			},
 			items: [
 				{
-					to: 'docs/',
-					activeBasePath: 'docs',
+					to: '/',
 					label: 'Docs',
 					position: 'right',
 				},
@@ -92,8 +91,8 @@ module.exports = {
 				docs: {
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
-					editUrl:
-						'https://github.com/ShenaniganDApp/docs/',
+					editUrl: 'https://github.com/ShenaniganDApp/docs/',
+					routeBasePath: '/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
@@ -101,4 +100,4 @@ module.exports = {
 			},
 		],
 	],
-}
+};
