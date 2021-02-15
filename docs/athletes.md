@@ -10,26 +10,27 @@ Now that you know the definition of an athlete, internalize it, and ask yourself
 
 ## ** How do you do it? ** !📱
 
-Our athletes download the "Shenanigan Mobile App" and register for an athlete account. Once registered as an athlete the user will interact with the simple to use interface, quickly fill in the relevant information to start with a challenge. Below is a quick example of the challenge questionnaire.
+Our athletes download the Shenanigan mobile app and register for an athlete account. Once registered as an athlete the user will interact with the simple to use interface, quickly fill in the relevant information to start with a challenge. Below is a quick example of the challenge questionnaire.
 
 Example:
 
-> -   What sport do you play?
+> __**What sport do you play?**__
 >    
 >
 > Athletics
 >
-> -   What specific category of sport?
+> __**What specific category of sport?**__
 >    
 >
 > Medium distance running - 1500m
-> -   Add a title for your challenge
+> 
+> __**Add a title for your challenge**__
 >     
 > 
 > Run 1500m in less than 5 minutes
 > 
 > 
-> -   Describe the challenge you are about to attempt
+> **__Describe the challenge you are about to attempt**__
 >     
 > 
 > I want to run 1500m in less than 5 minutes
