@@ -1,4 +1,5 @@
-﻿## ** What is Shenanigan? ** ![woman_cartwheeling](https://lh6.googleusercontent.com/lJUzNtQP47lexQBdxruB084UG0G2IzRM_rN1tdIaUXNGQF4PMhT0che_hmY8GbxH6q2_Qf9bl4pzT4RXfaLH7iNquGHhv1VfcIWTKEJnCU_rbURBRts0_EGaG56GNaW5yIg9OPEG)
+
+## ** What is Shenanigan? ** ![woman_cartwheeling](https://lh6.googleusercontent.com/lJUzNtQP47lexQBdxruB084UG0G2IzRM_rN1tdIaUXNGQF4PMhT0che_hmY8GbxH6q2_Qf9bl4pzT4RXfaLH7iNquGHhv1VfcIWTKEJnCU_rbURBRts0_EGaG56GNaW5yIg9OPEG)
 
 Shenanigan is an open source platform created for athletes and by athletes. We are creating a world where athletes can receive direct rewards for challenging themselves and pushing their own limits. Shenanigan wants to give athletes a platform to grow and earn at the same time. SHE achieves this by creating challenges specific to an athletes sport. Complete or fail athletes can earn rewards by trying to complete these challenges. *i.e. Complete a kickflip, or run 1500m”. This motivates the athlete to never give up while giving historical data and video of the athlete's growth. These accolades are tokenized and given to the athletes as a rare digital collectible. Athletes will be able to build a community that values their efforts and love for their sport. Members of these communities will be able to make donations to athletes, helping fuel their dreams. SHE is here to help you!
 
@@ -10,7 +11,7 @@ Now that you know the definition of an athlete, internalize it, and ask yourself
 
 ## ** How do you do it? ** ![iphone](https://lh6.googleusercontent.com/PUZX7_Li0FoaCsFyqfU1qve0nbcAQO1lBtNWdltyEyWKaB_RhCyYeJsYIBBJguKMf1qo9kYNdx2c1eLZoBlCojaNMeO1ShWsG93PbiFHf2wC5FuBsvKvTqdVWzs0QLmlwO09Q1ik)
 
-Our athletes download the She_Dapp and register for an account as either an athlete or a fan. Once registered as an athlete the user will interact with the simple to use interface, quickly fill in the relevant information to start with a challenge. Below is a quick example of the challenge questionnaire.
+Our athletes download the "Shenanigan Mobile App" and register for an athlete account. Once registered as an athlete the user will interact with the simple to use interface, quickly fill in the relevant information to start with a challenge. Below is a quick example of the challenge questionnaire.
 
 Example:
 
@@ -34,7 +35,7 @@ Run 1500m in less than 5 minutes
 
 I want to run 1500m in less than 5 minutes
 
-After completing this information that will be the initial date of the athletes challenge, SHE mints the rare digital collectable card known as a “NRG Challenge card”, along with its respective FAN Tokens and FAN CLUB. As the athlete attempts to complete these challenges they must upload proof to their fan club who will then vote on whether or not the athlete completed the challenge.
+After completing this information that will be the initial date of the athletes challenge, SHE mints the rare digital collectible card known as a “NRG Challenge card”, along with its respective FAN Tokens and FAN CLUB. As the athlete attempts to complete these challenges they must upload proof to the Shenanigan app where all the app users can vote on whether or not the athlete completed the challenge.
 
 *For more indepth of NRG Collectable cards read more at https://shenanigan.substack.com/p/she-teaches-you-about-dathletes*
 
@@ -59,3 +60,6 @@ Arisen from the ether, motivated by the oppressed and forgotten, SHE was born ou
 
 SHE controls with its great power the inner workings of the Shenanigan world. SHE is there to empower athletes and reward them for their success. It is SHE that provides us with a window into the realm of athletes, harnessing the threads of reality to transfer data through the world of Shenanigan.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNzI2MzA2ODFdfQ==
+-->
