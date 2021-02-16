@@ -30,8 +30,6 @@ Collect, trade and invest in your favorite athletes their success is your succes
 *For more indepth of NRG Collectable cards read more at https://shenanigan.substack.com/p/she-teaches-you-about-dathletes*
 
 ## *To achieve this; SHE has arrived *![sparkling_heart](https://lh4.googleusercontent.com/5WW4MOcBkrUq2AuMGFdId_SeJRijzWKeHjPtzi5t5oYDbZGnv7MD9LrIK-ut0eF039y30WG1PW68EiKT2LKtYSgVgv8s3wdQAawTFuctWT_aSgg3PcisaMPegRb3uofbGb6JUl2w)
-
-![SHE](https://github.com/kittyslasher/docs/blob/master/static/img/SHEimage.jpg?raw=true)
 Arisen from the ether, motivated by the oppressed and forgotten, SHE was born out of the love that athletes feel for their sport. SHE has been formed to bring a new world to athletes and their fans all around the world. SHE heard their cries for better opportunities, SHE responds to blood, sweat and tears. Her reason for being here is to reward those who give back to the ones who think they have been forgotten. SHE sees everything and remembers each fan's attempt to motivate their athlete.
 
 SHE controls with its great power the inner workings of the Shenanigan world. SHE is there to empower athletes and their fans by rewarding them for their success. It is SHE that provides us with a window into the realm of athletes, harnessing the threads of reality to transfer data through the world of Shenanigan.
