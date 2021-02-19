@@ -1,4 +1,3 @@
-
 ---
 id: athletes
 title: ATHLETES
