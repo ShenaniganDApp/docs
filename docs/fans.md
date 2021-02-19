@@ -1,3 +1,10 @@
+---
+id: fans
+title: FANS
+sidebar_label: Fans
+slug: fans
+---
+
 ## ** What is Shenanigan? ** 🤸‍
 
 Shenanigan is an open source platform created for athletes and by athletes. Wait whats that, you're not an athlete you say? Well have no fear SHE has a place for you as well. Shenanigan gives athletes a platform to challenge themselves and interact with their biggest fans directly. SHE gives fans a place to interact with like minds and the athlete themselves through "Fan clubs." Fan's will also have the chance to earn rewards while they watch their favorite athletes push themselves to the limits. Fans can collect rare digital collectibles commemorating those special moments as well as digital version of the athlete themselves! Athlete's can set specific challenges which they must strive to achieve _i.e. land a 5 punch combo or complete a kickflip._ Fan's can then vote on these and have a say on whether or not the athlete failed or succeeded! Get out there and meet your favorite athlete, SHE is glad to introduce you!

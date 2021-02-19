@@ -1,4 +1,11 @@
 
+---
+id: athletes
+title: ATHLETES
+sidebar_label: Athletes
+slug: athletes
+---
+
 ## ** What is Shenanigan? ** 🤸‍♀️
 Shenanigan is an open source platform created for athletes and by athletes. We are creating a world where athletes can receive direct rewards for challenging themselves and pushing their own limits. Shenanigan wants to give athletes a platform to grow and earn at the same time. SHE achieves this by creating challenges specific to an athletes sport. Complete or fail athletes can earn rewards by trying to complete these challenges. *i.e. Complete a kickflip, or run 1500m”. This motivates the athlete to never give up while giving historical data of the athlete's growth. These accolades are tokenized and given to the athletes as a rare digital collectible. Athletes will be able to build a community that values their efforts and love for their sport. Members of these communities will be able to make donations to athletes, helping fuel their dreams. SHE is here to help you!
 
