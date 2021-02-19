@@ -21,7 +21,7 @@ In our discord is we communicate ideas, hold discussions, and make friends so [i
 
 We love hearing comments and feedback so please, feel free to share. We promise to be nice and give respectful and honest opinions only.
 
-Second, take a minute to scan over the [whitepaper](https://she.energy/wiki/whitepaper/) to learn about the project.
+Second, take a minute to scan over the [whitepaper](https://she.energy/docs/whitepaper/) to learn about the project.
 
 ## Roles
 
@@ -37,17 +37,17 @@ We like to pretend that we are building an 80's arcade in the year 2080 😁.
 
 _Tips_
 
-- Check our [design doc](https://docs.google.com/document/d/1E0ZrhPARruPgFXbz-cuiQSa7C4yzTrgSN3E-2w6L8cg/edit?usp=sharing).
+-   Check our [design doc](https://docs.google.com/document/d/1E0ZrhPARruPgFXbz-cuiQSa7C4yzTrgSN3E-2w6L8cg/edit?usp=sharing).
 
-- Ask @team on the discord for pointers.
+-   Ask @team on the discord for pointers.
 
-- Make something and post it to the discord! You'll earn \$PRTCLE tokens and some Cred.
+-   Make something and post it to the discord! You'll earn \$PRTCLE tokens and some Cred.
 
 ## Social Media Unicorns 🦄️
 
 The Team's next link in the chain. We try to keep it as simple as possible around Shenanigan, but a fresh pair of eyes are able to explain ideas in new, fresh, and innovative ways. If we're doing something that generally excites you, please feel free to share and comment your thoughts.
 
-Shenanigan is on [Twitter](https://twitter.com/She_Dapp), [Facebook](https://www.facebook.com/shenanigan.dapp/), and [Instagram](https://she.energy/wiki/contribution/). Drop in and follow/retweet and post your link in the Discord.
+Shenanigan is on [Twitter](https://twitter.com/She_Dapp), [Facebook](https://www.facebook.com/shenanigan.dapp/), and [Instagram](https://www.instagram.com/she.dapp/). Drop in and follow/retweet and post your link in the Discord.
 
 ```
 📖️ Step 1. Learn about Shenanigan
