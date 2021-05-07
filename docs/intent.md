@@ -1,8 +1,8 @@
 ---
-id: athletes
-title: ATHLETES
-sidebar_label: Athletes
-slug: athletes
+id: intent
+title: INTENT
+sidebar_label: Intent
+slug: intent
 ---
 
 Athletes

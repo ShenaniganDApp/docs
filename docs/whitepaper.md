@@ -4,9 +4,6 @@ title: WHITEPAPER VERSION 0.3
 sidebar_label: Whitepaper
 slug: whitepaper
 ---
-
-Written by @youngkidwarrior @malikvprice
-
 [Live Version](https://docs.google.com/document/d/1EEpHczeRYLRyrRiSeA_FI1l2PDfSMLt3VEtrRJDpKiA/edit?usp=sharing)
 
 ![logo](https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/SHELogo.png) <!-- TODO: Host on cdn -->
@@ -154,3 +151,6 @@ The entirety of Shenanigan Tech LLC is rooted in the open source mantra. Our cod
 ### 5.4 MVP vs. Pivot 🔮
 
 Shenanigan has future plans to expand app functionality in order to reach further niche users. Currently, Shenanigan's app model only contains a single stream where a single athlete can be elected to host a challenge. Shenanigan v2 plans to have multiple streams separated by categories where users can branch off to allow for a larger athlete throughput. This will allow Shenanigan to help a wider range of people and provide a wider range of content.
+
+### Credit
+Written by @youngkidwarrior @malikvprice
