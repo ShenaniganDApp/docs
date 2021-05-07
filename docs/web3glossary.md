@@ -1,11 +1,11 @@
 ---
-id: glossary
-title: GLOSSARY
-sidebar_label: Glossary
-slug: glossary
+id: web3-glossary
+title: WEB3-GLOSSARY
+sidebar_label: Web3-Glossary
+slug: Web3-glossary
 ---
 
-# 🤸Shenanigan's Glossary🤸
+# 💻Web 3.0 Glossary💻
 
 1. **APY:** The annual percentage yield (APY) is the real rate of return earned on a savings deposit or investment taking into account the effect of compounding interest.
 
