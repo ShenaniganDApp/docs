@@ -1,6 +1,6 @@
 ---
 id: web3-glossary
-title: WEB3-GLOSSARY
+title: WEB 3.0 GLOSSARY
 sidebar_label: Web3-Glossary
 slug: Web3-glossary
 ---
