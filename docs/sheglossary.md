@@ -17,8 +17,12 @@ slug: she-glossary
 3. **Gaming:** Can be defined as using the rules and procedures meant to protect a system to, instead, manipulate the system for a desired outcome.
 
 ## Tests Of Will 
+1. **Challenge:** Any action with multiple possible outcomes e.g. doing a kickflip or climbing a rock wall. If the action's outcome can be broken down into success or failure, then it can be considered a challenge.
+ 
 1. **Donations:**
+
 2. **Lineup:**
+
 3. **iOn:** A Dathlete who live streams their challenges for Particles to make predictions on.
 
 4. **Particle:** An iOn or fan who chooses to place a prediction on wheather the outcome whether postive or negative on 
@@ -40,13 +44,3 @@ slug: she-glossary
 3. **DAO:** A decentralized autonomous organization, sometimes called a decentralized autonomous corporation, is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government. 
 
 
------------------------------------------------------------------------------------------
-. **Challenges:** Any action with multiple possible outcomes e.g. doing a kickflip or climbing a rock wall. If the action's outcome can be broken down into success or failure, then it can be considered a challenge.
-
-. **NRG Cards:** A digital collectable which captures the story of an athlete’s consistent hard work to break through new ceilings. Giving fans a chance to own a piece of this remarkable history. NRG Cards represent a video ledger containing chronological attempts to complete their challenges.
-
-. **Particle:** An iOn or fan who places a prediction wheather positive or negative on the out come of an iOn's challenge attempts.
-
-. **Predictions:** A voting system that also functions as an incentivization medium for the iOns. Each time a prediction is made, a small percentage of the total value is put into escrow claimable by the iOn.
-
-. **Shenossary:** She's glossary
