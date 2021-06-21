@@ -19,19 +19,19 @@ slug: glossary
 ## Tests Of Will 
 1. **Challenge:** Any action with multiple possible outcomes e.g. doing a kickflip or climbing a rock wall. If the action's outcome can be broken down into success or failure, then it can be considered a challenge.
  
-1. **Donations:**
+1. **Donations:** Every challenge garners donations for who will be next in the line up.
 
-2. **Lineup:**
+2. **Lineup:** The order and list of Dathletes who will appear in the Colleseum.
 
 3. **iOn:** A Dathlete who live streams their challenges for Particles to make predictions on.
 
 4. **Particle:** An iOn or fan who chooses to place a prediction on wheather the outcome whether postive or negative on 
 
-5. **Voting:**
+5. **Voting:**  A voting system that also functions as an incentivization medium for the iOns.
 
-6. **Predictions:** A voting system that also functions as an incentivization medium for the iOns. Each time a prediction is made, a small percentage of the total value is put into escrow claimable by the iOn.
+6. **Predictions:**  Each time a prediction is made, a small percentage of the total value is put into escrow claimable by the iOn.
 
-7. **Community:**
+7. **Community:** (writing it from being apart of a fan club or should we add fan club and do community as a whole) Group Ions and Dathletes alike that are a fan of a singular Dathlete
 
 
 
