@@ -1,26 +1,52 @@
 ---
 id: she-glossary
-title: Shenossary
+title: She-lossary🤸
 sidebar_label: SHE-Glossary
 slug: she-glossary
 ---
 
-# 🤸Shenanigan's Glossary🤸
+## Meta
+1. **Dathlete:** A individual who is proficient in sports and other forms of physical exercise & uses the power of web 3.0 and blockchain technology. Defi + Athlete = Dathlete. 
+2. **Fans:** A person who has a strong interest in or admiration for a particular person or thing.
+3. **Crypto-Economics:** A mix of game theory, mechanism design, mathematics, and other methodologies from the field of economics. The main goal is to understand how to fund, design, develop, and facilitate the operations of decentralized networks.
 
-1. **Challenges:** Any action with multiple possible outcomes e.g. doing a kickflip or climbing a rock wall. If the action's outcome can be broken down into success or failure, then it can be considered a challenge.
+## PRTCLE Token
+1. **Tokenomics:** 
+2. **Shenanigan NFTs:** Non funagiable tokens created from either SHE's Dathletes recording their attempts at their Tests of Will. Or an NFT Token created by the SHE core team for collecting purposes
 
-2. **Dathlete:** Athletes powered by web 3.0 and Blockchain technology
+3. **Gaming:** Can be defined as using the rules and procedures meant to protect a system to, instead, manipulate the system for a desired outcome.
 
+## Tests Of Will 
+1. **Donations:**
+2. **Lineup:**
 3. **iOn:** A Dathlete who live streams their challenges for Particles to make predictions on.
 
-4. **NRG Cards:** A digital collectable which captures the story of an athlete’s consistent hard work to break through new ceilings. Giving fans a chance to own a piece of this remarkable history. NRG Cards represent a video ledger containing chronological attempts to complete their challenges.
+4. **Particle:** An iOn or fan who chooses to place a prediction on wheather the outcome whether postive or negative on 
 
-5. **Particle:** An iOn or fan who places a prediction wheather positive or negative on the out come of an iOn's challenge attempts.
+5. **Voting:**
 
-6. **Predictions:** A voting system that also functions as an incentivization medium for the iOns. Each time a prediction is made, a small percentage of the total value is put into escrow claimable by the iOn. 
+6. **Predictions:** A voting system that also functions as an incentivization medium for the iOns. Each time a prediction is made, a small percentage of the total value is put into escrow claimable by the iOn.
 
-7. **Shenanigan:** A platform powered by web 3.0 that gives dathletes and their respective fan base a place to cultivate a community. Whilist incitiving these datheltes to push themselves to their very limits through streamable challenges. 
+7. **Community:**
 
-8. **SHE:** Abbreviation for Shenanigan.
 
-9. **Shenossary:** She's glossary
+
+## Community Mining
+
+1. **Shenanigan:** A platform powered by web 3.0 that gives dathletes and their respective fan base a place to cultivate a community. Whilist incitiving these datheltes to push themselves to their very limits through streamable challenges.
+
+2. **SHE:** A shortened version of Shenanigan paying homage to SHE's ambassador.
+
+3. **DAO:** A decentralized autonomous organization, sometimes called a decentralized autonomous corporation, is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government. 
+
+
+-----------------------------------------------------------------------------------------
+. **Challenges:** Any action with multiple possible outcomes e.g. doing a kickflip or climbing a rock wall. If the action's outcome can be broken down into success or failure, then it can be considered a challenge.
+
+. **NRG Cards:** A digital collectable which captures the story of an athlete’s consistent hard work to break through new ceilings. Giving fans a chance to own a piece of this remarkable history. NRG Cards represent a video ledger containing chronological attempts to complete their challenges.
+
+. **Particle:** An iOn or fan who places a prediction wheather positive or negative on the out come of an iOn's challenge attempts.
+
+. **Predictions:** A voting system that also functions as an incentivization medium for the iOns. Each time a prediction is made, a small percentage of the total value is put into escrow claimable by the iOn.
+
+. **Shenossary:** She's glossary
