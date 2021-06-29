@@ -1,8 +1,8 @@
 ---
-id: athletes
-title: ATHLETES
-sidebar_label: Athletes
-slug: athletes
+id: dathletes
+title: DATHLETES
+sidebar_label: Dathletes
+slug: dathletes
 ---
 
 ## ** What is Shenanigan? ** 🤸‍♀️

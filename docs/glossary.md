@@ -1,8 +1,8 @@
 ---
-id: she-glossary
+id: she-lossary
 title: She-lossary🤸
-sidebar_label: SHE-Glossary
-slug: she-glossary
+sidebar_label: SHE-Lossary
+slug: glossary
 ---
 
 ## Meta
