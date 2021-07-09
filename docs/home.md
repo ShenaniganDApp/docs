@@ -7,12 +7,12 @@ slug: /
 
 ## **Welcome to the Official Shenanigan Wiki**
 
-SHE welcomes you to her central knowledge point for everything Shenanigan, maintained and updated by SHE's hard working community and core team!
+SHE welcomes you to a central point of knowledge for everything Shenanigan (SHE), maintained and updated by SHE's hard working community and core-team!
 
 New to Shenanigan?
-No worries we were all new once. Just head to [Introduction](./introduction) for some insight on what SHE can do for you. Or if you're more hands on join our [Discord](https://discord.gg/YKyn3njpv9) and dive right in!
+No worries we were all new once. Just head to [Introduction](./introduction) for a little insight on SHE. Or if you're more hands on join our [Discord](https://discord.gg/YKyn3njpv9) and dive right in! SHE has a community waiting to welcome you and help show you the ropes!
 
-**Popular Pages**
+### **Popular Pages**
 
 * [Introduction](./introduction) -- Introduction to SHE's Universe.
    
@@ -20,16 +20,18 @@ No worries we were all new once. Just head to [Introduction](./introduction) for
 
 * [Tokenomics](./tokenomics) -- Learn about SHE's Governence Token known as $PRTCL.
 
-* [DAO](./dao) -- Everything there is to know about SHE's DAO.
-
 * [SHE's-NFT](./nft) -- Dive into the NTF's SHE has to offer to the defi world!
 
-**Other Useful Pages**
+* [FAQ](./faq) -- A simple faq (frequently asked questions) page all pertaining to SHE.
 
-* [Team](./team) -- See who's help SHE monitize dathletes all around the world
+### **Other Useful Pages**
+
+* [Team](./team) -- See who help's SHE monitize dathletes all around the world!
 
 * [Roadmap](./roadmap) -- The up-to-date roadmap, SHE welcomes you to see the vision
 
+* [Pink-Paper](./pinkpaper) -- A technical break down of how SHE works.
+
 **Contribute**
 
-SHE is always looking for individuals looking to contribute! If you are looking to help out head on over to SHE's [github](https://github.com/ShenaniganDApp) and tackle one of the issues we have listed. Just submit your pull request after! Feel free to join our Discord Channel as well and speak to one of SHE's Core team members.
+SHE is always looking for individuals who want to contribute! Shenanigan uses [SourceCred](https://sourcecred.io/), which means the more effort you give to SHE, the more SHE will give to you! If you think you have something to offer to SHE head on over to our [contriubution](./contribution) page for details on how to you can help!

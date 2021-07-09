@@ -5,14 +5,13 @@ sidebar_label: Dathletes
 slug: dathletes
 ---
 
-## ** What is Shenanigan? ** 🤸‍♀️
-Shenanigan is an open source platform created for athletes and by athletes. We are creating a world where athletes can receive direct rewards for challenging themselves and pushing their own limits. Shenanigan wants to give athletes a platform to grow and earn at the same time. SHE achieves this by creating challenges specific to an athletes sport. Complete or fail athletes can earn rewards by trying to complete these challenges. *i.e. Complete a kickflip, or run 1500m”. This motivates the athlete to never give up while giving historical data of the athlete's growth. These accolades are tokenized and given to the athletes as a rare digital collectible. Athletes will be able to build a community that values their efforts and love for their sport. Members of these communities will be able to make donations to athletes, helping fuel their dreams. SHE is here to help you!
-
 ## ** Why does SHE do it? **!🏆
 
-** Athlete ** = from the Greek origin “One who competes with effort for a prize.”
+** Athlete ** - from the Greek origin “One who competes with effort for a prize.”
 
-Now that you know the definition of an athlete, internalize it, and ask yourself, why do many athletes not have the opportunity to get that award? Why do so many athletes go unrewarded for their talent and dedication to their sport? Are the opportunities not the same for everyone? Are only some of them talented enough? Is it for some the effort is not proportional to their prize? Shenanigan encourages going further and never giving up. It gives athletes the chance to pursue their dreams and claim their prize! Shenanigan provides each athlete with the web3 instruments necessary to achieve this, it's your time! It's your career! It’s your life go get it!
+** Dathlete ** - A individual who is proficient in sports and other forms of physical exercise & uses the power of web 3.0 and blockchain technology. Defi + Athlete = Dathlete. 
+
+Now that you know the definition of an athlete, and a dathlete internalize it, and ask yourself, why do many athletes not have the opportunity to get that award? Why do so many athletes go unrewarded for their talent and dedication to their sport? Are the opportunities not the same for everyone? Are only some of them talented enough? Is it for some the effort is not proportional to their prize? Shenanigan encourages going further and never giving up. It gives athletes the chance to pursue their dreams and claim their prize! Shenanigan provides each athlete with the web3 instruments necessary to achieve this, it's your time! It's your career! It’s your life go get it!
 
 ## ** How do you do it? ** !📱
 
