@@ -5,18 +5,10 @@ sidebar_label: Pinkpaper
 slug: pinkpaper
 ---
 
-SHE Pink Paper
-===
-
-        **SHE** 
 ![logo](https://i.imgur.com/mKeBfHq.png)
 
 
 Performance-Driven Communities for Athletes and Fans
-
-## Table of Contents
-
-[TOC]
 
 ## Challenge
 

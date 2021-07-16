@@ -1,6 +1,9 @@
 module.exports = {
 	someSidebar: {
-		Docs: ['home', 'introduction', 'pinkpaper', 'she-lossary' , 'contribution', 'dathletes', 'fans', 'team' , 'faq'],
+		"START HERE": ['home', 'about', 'contribution', 'glossary'],
+		 SHENANIGAN: ["dathletes", "fans",'she-nft',],
+		CRYPTOECONOMICS: ['tokenomics','dao'],
+		test: ["faq", "team", "pinkpaper"],
 	},
 }
 

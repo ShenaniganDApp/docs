@@ -10,23 +10,23 @@ slug: /
 SHE welcomes you to a central point of knowledge for everything Shenanigan (SHE), maintained and updated by SHE's hard working community and core-team!
 
 New to Shenanigan?
-No worries we were all new once. Just head to [Introduction](./introduction) for a little insight on SHE. Or if you're more hands on join our [Discord](https://discord.gg/YKyn3njpv9) and dive right in! SHE has a community waiting to welcome you and help show you the ropes!
+No worries we were all new once, just head to SHE's [About](./about) page for a look into SHE's Universe. If you're more hands on or just wanna jump right in, join our [Discord](https://discord.gg/YKyn3njpv9) and interact without SHE's ever growing and amazing community! Dathlete, Fan or contributor SHE has a whole group of individuals ready welcome you and help show you the ropes!
 
 ### **Popular Pages**
 
-* [Introduction](./introduction) -- Introduction to SHE's Universe.
+* [About She](./about) -- Introduction to SHE's Universe.
    
 * [SHE-Lossary](./glossary) -- Quick overview of SHE specific terms to help you understand her lingo.
 
-* [Tokenomics](./tokenomics) -- Learn about SHE's Governence Token known as $PRTCL.
+* [Tokenomics](./tokenomics) -- Learn all about SHE's Governence Token known as $PRTCL.
 
-* [SHE's-NFT](./nft) -- Dive into the NTF's SHE has to offer to the defi world!
+* [SHE's NFT](./nft) -- Dive into the NTF's SHE has to offer to the defi world!
 
-* [FAQ](./faq) -- A simple faq (frequently asked questions) page all pertaining to SHE.
+* [FAQ](./faq) -- A simple faq (frequently asked questions) page pertaining to all things SHE.
 
 ### **Other Useful Pages**
 
-* [Team](./team) -- See who help's SHE monitize dathletes all around the world!
+* [Team](./team) -- See who help's build SHE's universe which monitizes dathletes all around the world!
 
 * [Roadmap](./roadmap) -- The up-to-date roadmap, SHE welcomes you to see the vision
 
