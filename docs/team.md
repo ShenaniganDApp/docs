@@ -9,8 +9,8 @@ slug: team
 
 Amongst SHE's Community we have a few individuals who help SHE just a little more consistently and they are a part of SHE's core team.
 
-1. **YoungKidWarrior**
-2. **APrettyScone**
+1. **YoungKidWarrior** -
+2. **APrettyScone** - 
 3. **Chair**
 4. **Shax**
 5. **Kilgore**

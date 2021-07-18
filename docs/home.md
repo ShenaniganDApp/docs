@@ -31,7 +31,3 @@ No worries we were all new once, just head to SHE's [About](./about) page for a 
 * [Roadmap](./roadmap) -- The up-to-date roadmap, SHE welcomes you to see the vision
 
 * [Pink-Paper](./pinkpaper) -- A technical break down of how SHE works.
-
-**Contribute**
-
-SHE is always looking for individuals who want to contribute! Shenanigan uses [SourceCred](https://sourcecred.io/), which means the more effort you give to SHE, the more SHE will give to you! If you think you have something to offer to SHE head on over to our [contriubution](./contribution) page for details on how to you can help!

@@ -1,9 +1,9 @@
 module.exports = {
 	someSidebar: {
-		"START HERE": ['home', 'about', 'contribution', 'glossary'],
-		 SHENANIGAN: ["dathletes", "fans",'she-nft',],
+		"START HERE": ['home', 'about', 'glossary', "faq"],
+		 SHENANIGAN: ["dathletes", "fans",'livestream', 'she-nft',],
 		CRYPTOECONOMICS: ['tokenomics','dao'],
-		test: ["faq", "team", "pinkpaper"],
+		DEVELOPMENT: ['contribution', "team","pinkpaper"],
 	},
 }
 
