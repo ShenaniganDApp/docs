@@ -13,36 +13,7 @@ slug: dathletes
 
 Now that you know the definition of an athlete, and a dathlete internalize it, and ask yourself, why do many athletes not have the opportunity to get that award? Why do so many athletes go unrewarded for their talent and dedication to their sport? Are the opportunities not the same for everyone? Are only some of them talented enough? Is it for some the effort is not proportional to their prize? Shenanigan encourages going further and never giving up. It gives athletes the chance to pursue their dreams and claim their prize! Shenanigan provides each athlete with the web3 instruments necessary to achieve this, it's your time! It's your career! It’s your life go get it!
 
-## ** How do you do it? ** !📱
 
-Our athletes download the Shenanigan mobile app and register for an athlete account. Once registered as an athlete the user will interact with the simple to use interface, quickly fill in the relevant information to start with a challenge. Below is a quick example of the challenge questionnaire.
-
-Example:
-
-> __**What sport do you play?**__
->    
->
-> Athletics
->
-> __**What specific category of sport?**__
->    
->
-> Medium distance running - 1500m
-> 
-> __**Add a title for your challenge**__
->     
-> 
-> Run 1500m in less than 5 minutes
-> 
-> 
-> **__Describe the challenge you are about to attempt**__
->     
-> 
-> I want to run 1500m in less than 5 minutes
-
-After completing this information that will be the initial date of the athletes challenge, SHE mints the rare digital collectible card known as a “Challenge card”, along with its respective FAN Tokens and FAN CLUB. As the athlete attempts to complete these challenges they must livestream proof to the Shenanigan app where all the app users can vote on whether or not the athlete completed the challenge.
-
-*For more indepth of NRG Collectable cards read more at https://shenanigan.substack.com/p/she-teaches-you-about-dathletes*
 
 ## * How do they benefit? *💰
 
@@ -57,11 +28,6 @@ Comparable to baseball cards, NRG cards will track unique stats and attributes t
 Donations, live challenges and card exchanges make up the total reward the athlete can earn by simply challenging themselves in the sport they love the most!
 
 “Choose a job you love and you will never have to work a day in your life” - Confucius
-
-## *To achieve this; SHE has arrived *💖
-Arisen from the ether, motivated by the oppressed and forgotten, SHE was born out of the love that athletes feel for their sport. SHE has been formed to bring a new world to athletes. SHE heard their cries for better opportunities, SHE responds to blood, sweat and tears. Her reason for being here is to reward those who think they have been forgotten. SHE sees everything and remembers each athlete's attempt to improve.
-
-SHE controls with its great power the inner workings of the Shenanigan world. SHE is there to empower athletes and reward them for their success. It is SHE that provides us with a window into the realm of athletes, harnessing the threads of reality to transfer data through the world of Shenanigan.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNzI2MzA2ODFdfQ==

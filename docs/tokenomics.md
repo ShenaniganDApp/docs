@@ -13,11 +13,15 @@ SHE has chosen to mint 20,000 $PRTCLE per week and distributes them proportional
 
 As the platform grows, that same 20,000 will remain fixed while being distributed among an ever-increasing userbase. This method of token creation was used as a way to increase the scarcity of the Token. When demand for $PRTCLE exceeds its current weekly minting amount a proposal can always be submitted to either increase the weekly supply or decrease it further increasing the scarcity! 
 
-  ## WEEKLY DISTRUBUTION 
-SourceCred is tool for communities to measure and reward value creation. SHE uses it to track data gathered from Discord, Github PR's and SHE's mobile app, ased on your creations, contributions and community involvement. Weather you have skills as a developer, artist, marketer or have great people skills there's enough $PRTCLE
+## WEEKLY DISTRUBUTION 
+Dathletes, developers, artists, community leaders, social media unicorns and SHE herself are all rewarded in $PRTCLE each week for their dedication to changing how dathletes montize themselves and fans interact with their favorite dathletes. Shenanigan uses sourceCred, a tool for communities to measure and reward the creation of valuable content. SHE uses it to track contribution data from the following:
 
-Dathletes, developers, artists, community leaders, social media unicorns and SHE herself are all rewarded in $PRTCLE each week for their dedication to changing how dathletes montize themselves and fans interact with their favorite dathletes.
+* Discord
+* Github PR's
+* SHE's mobile app.
+
+All based on your creations, contributions and community involvement. Weather you have skills as a developer, artist, marketer or have great people skills there's enough "Cred" to go around. Every week the data is pulled and based on the amount of cred you have earned will determain the amount of $PRTCLE one will recieve.
 
 
-## FUTURE USES
-
+## TRIP TO THE FUTURE
+SHE will be doing $PRTCLE token Buybacks

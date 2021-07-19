@@ -57,21 +57,8 @@ Technology
 SHE offers a LivePeer livestream for athletes to promote themselves and their accomplishments. Athletes will set challenges to complete via livestream to showcase and document personal growth. Viewers of the stream will be able to stake tokens or NFTs on the outcome of the challenge.
 
 (fancy version of this)
-```mermaid
-graph LR
-id1[ERC998 NRG Card]
-id2[NFT Challenge Card]
-id3[NFT Challenge Card]
-id4[NFT Challenge Card]
-
-    Dathlete --> id1 --> id2
-    id1 --> id3
-    id1 --> id4
-
-```
 
 #### $PRTCLE
-
 
 Architecture
 ---
@@ -144,46 +131,3 @@ About
 ---
 
 >We envision a gamified form of social media on web3 that  enables athletes to harness their best monetary asset -- themselves.
-
-A platform that brings entertainment to the 
-
-
-
-### Team
----
->SHE is a project built by a decentralized team of contributors from all over the world.
-
-We are fully community-driven and eschew traditional corporate heirarchy. All top-level governance is publicly voted on via Snapshot, and prime-level governance is handled via our core team on DAOHaus.
-
-
-
-Aliases, full names or first names? Doxxing = trust
-
-
-**Victor Ginelli** 
-
-**Scone | Malik Price**
-
-**Chair**
-
-**Shax**
-
-**Drew Samson**
-
-**Kitty**
-
-**Kilgore | Mark Stone**
-
-
-
-Find out more
----
-
-
-## Appendix and FAQ
-
-:::info
-SHE Glossary
-:::
-
-###### tags: `Shenanigan` `SHE` `Pinkpaper` `Documentation`
