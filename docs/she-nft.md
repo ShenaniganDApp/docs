@@ -5,15 +5,15 @@ sidebar_label: SHE'S-NFT
 slug: she-nft
 ---
 
-## NRG CARDS
-$NRG Cards are an ERC 998 Standard collectable that represent a video ledger containing chronological attempts to complete their challenges. $NRG Cards would be minted any time a dathlete is about to challenge and push themselves to their very limit. A few reasons a dathlete would mint a new $NRG card would be: 
+## NRG PACKS
+$NRG Packs are an ERC 998 Standard collectable that represent a video ledger containing chronological attempts to complete their challenges. $NRG Packs would be minted any time a dathlete is about to challenge and push themselves to their very limit. A few reasons a dathlete would mint a new $NRG Pack would be: 
 
 * **Learning a new skill. Exmaple: Learn a kick flip**
 * **Competing in a tournament. Example: Competing in Jiu Jitsu tournament**
 * **Breaking a world record**
 * **Challenging an opponent to a duel⚔️**
 
-Once the $NRG Card is minted dathletes will be able charge these cards increase their rarity and market value. To charge an $NRG Card the dathlete must succesfuly complete the challenges creating matter or lock up their respective fan tokens. 
+Once the $NRG Pack is minted dathletes will be able charge these packs increasing their rarity and market value. To charge an $NRG Packs the dathlete lock up matter cards or lock up their respective fan tokens. 
 
 For all you athletes out there, $NRG Cards will turn you into supercharged, goal oriented, APY farming powerhouse. Officially turning you into a dathlete!
 
