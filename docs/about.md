@@ -8,7 +8,7 @@ slug: about
 
 <p class="big"> SHE'S VISSION </p>
 
-SHE envission's a gamified form of social media on web3 that  enables athletes to harness their best monetary asset -- themselves.
+SHE envision's a gamified form of social media on web3 that  enables athletes to harness their best monetary asset -- themselves.
 
 ### SHE'S GRAND RISING
 
