@@ -16,12 +16,20 @@ As the platform grows, that same 20,000 will remain fixed while being distribute
 ## WEEKLY DISTRUBUTION 
 Dathletes, developers, artists, community leaders, social media unicorns and SHE herself are all rewarded in $PRTCLE each week for their dedication to changing how dathletes montize themselves and fans interact with their favorite dathletes. Shenanigan uses sourceCred, a tool for communities to measure and reward the creation of valuable content. SHE uses it to track contribution data from the following:
 
-* Discord
-* Github PR's
-* SHE's mobile app.
+### Discord
+SHE uses source cred to track ones involvement in the discord community. Post that get positive reactions are a great way to earn cred. Here are a few others as well:
+* Helping design POAP's for the weekly meetings
+* Assiting new comers with questions
+* Shilling SHE's Social Media content and posting you did it
+* Taking notes during the weekly calls
+and so many more..
+### Github PR's
+SHE offers rewards to anyone who is able to tackle some of the issues on github. Completing an issue and getting a successful PR is a great way to earn cred. SHE is need developers and if you find something missing from the DOCS feel free to submit the PR request and earn in the process.
+### SHE's mobile app.
+SHE will be integrating sourceCred into the mobile app. This will allow both iOns and Particles to be tracked on their involvment as well. iOns will be tracked based on how many live challenge streams they are completing. While Particles will be tracked based on how frequently they are present at these livestreams and voting on the out come of the iOns performance.
 
-All based on your creations, contributions and community involvement. Weather you have skills as a developer, artist, marketer or have great people skills there's enough "Cred" to go around. Every week the data is pulled and based on the amount of cred you have earned will determain the amount of $PRTCLE one will recieve.
+As you can see all based on your willingness to grow, your creations, contributions to the protocol small or large and community involvement can pay off. Weather you have skills as a developer, artist, marketer or have great people skills there's enough "Cred" to go around. Every week the data is pulled and based on the amount of cred you have earned will determain the amount of $PRTCLE one will recieve.
 
 
-## TRIP TO THE FUTURE
-SHE will be doing $PRTCLE token Buybacks
+## Token Buyback
+SHE believes in reinvesting in herself just as she encourages you to do. So SHE has decided to perform routine buybacks of $PRTCLE. With the revenue the SHE earns from from all live streams and nft sells, a portion will be taken to complete buy backs of $PRTCLE and then provide liquidity. This will ensure there is always liquidty in the bank!

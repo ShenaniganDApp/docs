@@ -5,7 +5,7 @@ sidebar_label: Dathletes
 slug: dathletes
 ---
 
-## ** Why does SHE do it? **!🏆
+## ** Need new title **!🏆
 
 ** Athlete ** - from the Greek origin “One who competes with effort for a prize.”
 
@@ -15,7 +15,32 @@ Now that you know the definition of an athlete, and a dathlete internalize it, a
 
 
 
-## * How do they benefit? *💰
+## ** Need new title ** 📱
+
+Our athletes download the Shenanigan mobile app and register for an athlete account. Once registered as an athlete the user will interact with the simple to use interface, quickly fill in the relevant information to start with a challenge. Below is a quick example of the challenge questionnaire.
+
+Example:
+
+What sport do you play?
+
+Athletics
+
+What specific category of sport?
+
+Medium distance running - 1500m
+
+Add a title for your challenge
+
+Run 1500m in less than 5 minutes
+
+__Describe the challenge you are about to attempt__
+
+I want to run 1500m in less than 5 minutes
+
+After completing this information that will be the initial date of the athletes challenge, SHE mints the rare digital collectible card known as a “Challenge card”, along with its respective FAN Tokens and FAN CLUB. As the athlete attempts to complete these challenges they must livestream proof to the Shenanigan app where all the app users can vote on whether or not the athlete completed the challenge.
+
+
+## ** Need new title **💰
 
 Shenanigan generates a community where fans can directly donate to the success of their favorite athletes while watching their progress!. By completing challenges athletes are able to claim donations that their fan club members have provided them.
 
@@ -28,7 +53,3 @@ Comparable to baseball cards, NRG cards will track unique stats and attributes t
 Donations, live challenges and card exchanges make up the total reward the athlete can earn by simply challenging themselves in the sport they love the most!
 
 “Choose a job you love and you will never have to work a day in your life” - Confucius
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI2MzA2ODFdfQ==
--->

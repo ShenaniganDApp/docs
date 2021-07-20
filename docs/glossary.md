@@ -22,10 +22,11 @@ slug: glossary
 
 * **Gaming:** Can be defined as using the rules and procedures meant to protect a system to, instead, manipulate the system for a desired outcome.
 
-
 ## Concept 
 
 * **Matter:** Any action with multiple possible outcomes e.g. doing a kickflip or climbing a rock wall. If the action's outcome can be broken down into success or failure, then it can be considered a challenge which generates matter.
+
+* **NRG Cards:** $NRG Cards are an ERC 998 Standard collectable that represent a video ledger containing chronological attempts of dathletes attempting to complete their challenges.
  
 * **Donations:** Every challenge garners donations for who will be next in the line up.
 

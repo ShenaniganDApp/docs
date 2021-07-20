@@ -22,8 +22,6 @@ slug: Web3-glossary
 
 5. **NFT:** A non-fungible token (NFT) is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable. NFTs can be used to represent items such as photos, videos, audio, and other types of digital files. 
 
-6. **NRG Cards:**
-
 8. **Protocol:** A protocol is a crucial component of Blockchain technology that enable information to be shared automatically across cryptocurrency networks securely and reliably. In the field of computing, protocols are essentially rules that define how data is allowed to be transferred between different computer systems.
 
 10. **Staking:** A process of actively participating in transaction validation (similar to mining) on a proof-of-stake (PoS) blockchain. On these blockchains, anyone with a minimum-required balance of a specific cryptocurrency can validate transactions and earn Staking rewards.
