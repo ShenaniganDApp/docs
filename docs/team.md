@@ -1,25 +1,24 @@
 ---
 id: team
-title: CORE-TEAM
+title: SHE's TEAM 👪 
 sidebar_label: Team
 slug: team
 ---
 
-## CORE TEAM 👪 
+## TEAM
+>SHE is a project built by a decentralized team of contributors from all over the world.
 
+We are fully community-driven and eschew traditional corporate heirarchy. All top-level governance is publicly voted on via Snapshot, and prime-level governance is handled via our core team on DAOHaus.
+
+Aliases, full names or first names? Doxxing = trustmmunity we have a few 
 >SHE is a project built by a decentralized team of contributors from all over the world.
 
 We are fully community-driven and eschew traditional corporate heirarchy. All top-level governance is publicly voted on via Snapshot, and prime-level governance is handled via our core team on DAOHaus.
 
 
 
-Aliases, full names or first names? Doxxing = trustmmunity we have a few >SHE is a project built by a decentralized team of contributors from all over the world.
-
-We are fully community-driven and eschew traditional corporate heirarchy. All top-level governance is publicly voted on via Snapshot, and prime-level governance is handled via our core team on DAOHaus.
-
-
-
-Aliases, full names or first names? Doxxing = trusthelp SHE just a little >SHE is a project built by a decentralized team of contributors from all over the world.
+Aliases, full names or first names? Doxxing = trusthelp SHE just a little 
+>SHE is a project built by a decentralized team of contributors from all over the world.
 
 We are fully community-driven and eschew traditional corporate heirarchy. All top-level governance is publicly voted on via Snapshot, and prime-level governance is handled via our core team on DAOHaus.
 
@@ -27,27 +26,28 @@ We are fully community-driven and eschew traditional corporate heirarchy. All to
 >SHE is a project built by a decentralized team of contributors from all over the world.
 
 We are fully community-driven and eschew traditional corporate heirarchy. All top-level governance is publicly voted on via Snapshot, and prime-level governance is handled via our core team on DAOHaus.
-
-
 
 Aliases, full names or first names? Doxxing = trust
 
-* **Victor Ginelli** 
+
+### Core Team
+----------------------------
+* **YoungKidWarrior | Victor Ginelli** 
 
 * **Scone | Malik Price**
 
-* **Chair**
+* **Chair | Arron B.**
 
-* **Shax**
+* **Shax | Tawnee A.**
 
 * **Drew Samson**
 
-* **Kitty**
+* **Kitty | David J.**
 
 * **Kilgore | Mark Stone**
 
 ----------------------------
-#### Advisors
+### Advisors
 
 * **Robert Lionhard - Lawyer**
 

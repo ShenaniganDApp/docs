@@ -5,10 +5,8 @@ sidebar_label: Pinkpaper
 slug: pinkpaper
 ---
 
-![logo](https://i.imgur.com/mKeBfHq.png)
-
-
 Performance-Driven Communities for Athletes and Fans
+![logo](../static/img/SHELogo3.png)
 
 ## Challenge
 
@@ -58,13 +56,13 @@ SHE offers a LivePeer livestream for athletes to promote themselves and their ac
 
 (fancy version of this)
 
-#### $PRTCLE
+### $PRTCLE
 
 Architecture
 ---
 >How our product is developed and interfaced
 
-#### Android/iOS app
+### Android/iOS app
 Front end is built using ReactNative, providing a seamless interface that spans across iOS and Android
 
 We utilize Web3 login protocol using wallet intergration. Burner wallets are created for all users upon initial registration, with an option to use a pre-existing wallet address. 
@@ -76,14 +74,14 @@ These two are combined to create a gasless creator experience for athletes utili
 The app provides functional routing and native engagement. 
 
 
-#### Centralized back end
+### Centralized back end
 
 A centralized NodeJS/GraphQL back end is used as an intermediary between smart contracts and the app. Certain features like live chat, synchronous updates, and complex searches are open to us by using an intermediary back end.
 
 The back end is intergrated with The Graph subgraph technology, which connects directly with the xDai blockchain and our smart contracts to keep on-chain data concurrent.
 
 
-#### Smart contracts
+### Smart contracts
 
 The smart contracts use the [Diamond Standard (EIP-2535)](https://eips.ethereum.org/EIPS/eip-2535). The primary contract used is  SHE`ChallengeDiamond.sol`.
 
@@ -94,6 +92,9 @@ For each challenge made, a `ChallengeDiamond` is minted via the `ChallengeFactor
 Each `ChallengeDiamond` is responsible for tracking the various iterations of a singular challenge, as well as minting the ERC-1155 NFTs for that specific challenge. There are also vaults used as escrow for fan-submitted donations, as athletes attempt a challenge.
 
 Every iteration of a challenge uses IPFS to store results and metadata, as well as the video stream of the challenge.
+
+
+!["NFT Chart"](../static/img/NFT.png)
 
 We have a DAO that has sole control over the `resolveChallenge` function, which is responsible for the payout mechanism and contract authentication. The DAO is given data directly from the front end and can instantly assign a challenge outcome.
 
@@ -108,8 +109,6 @@ X axis: SHE | TopShot | Opensea | IG | Patreon
 
 Y axis: Defi | Collectible NFTs | Live Feed | 
 
-
-
 Target market
 ---
 >We are targeting up-and-coming athletes who are looking to develop a fanbase, as well as document and monetize their accomplishments.
@@ -122,12 +121,3 @@ Target market
 
 **End-users:** 
 Traditional broad social media target audience, skewed slightly older (16-36) to reflect the financial engagement and understanding of how to navigate the crypto space
-
-About
----
->Who is SHE and why are we doing this?
-
-### Our vision
----
-
->We envision a gamified form of social media on web3 that  enables athletes to harness their best monetary asset -- themselves.

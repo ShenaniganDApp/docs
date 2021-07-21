@@ -13,7 +13,7 @@ module.exports = {
 			title: 'Shenanigan',
 			logo: {
 				alt: 'Shenanigan Logo',
-				src: 'img/SHELogo.png',
+				src: 'img/SHELogo2.png',
 				href: '/',
 			},
 			items: [
