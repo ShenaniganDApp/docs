@@ -5,7 +5,7 @@ module.exports = {
 	baseUrl: '/docs/',
 	onBrokenLinks: 'warn',
 	onBrokenMarkdownLinks: 'warn',
-	favicon: 'img/favicon.png',
+	favicon: '/img/favicon.ico',
 	organizationName: 'ShenaniganDApp', // Usually your GitHub org/user name.
 	projectName: 'docs', // Usually your repo name.
 	themeConfig: {
