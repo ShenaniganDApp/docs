@@ -17,7 +17,7 @@ Arisen from the ether, motivated by the oppressed and forgotten, Shenanigan(SHE)
 ### SHE'S CALLING
 SHE is revolutionizing the way athletes and their fans use social media. By providing a competitive and motivating platform for dathletes of all types utilizing fiscal incentives to drive personal improvement. While providing fans a safe and fun place to interact with their favorite dathletes and similar like minded fans.
 
-With she's Mobile app Dathletes and fans will be support one another from all around the world. To be successful one must get up and push themselves as long as you can get up and perfrom for yourself SHE will have your back along the way.
+With she's Mobile app Dathletes and fans will be support one another from all around the world. To be successful one must get up and push themselves as long as you can get up and perform for yourself SHE will have your back along the way.
 
 
 

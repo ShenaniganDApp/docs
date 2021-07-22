@@ -26,7 +26,7 @@ and so many more..
 ### Github PR's
 SHE offers rewards to anyone who is able to tackle some of the issues on github. Completing an issue and getting a successful PR is a great way to earn cred. SHE is need developers and if you find something missing from the DOCS feel free to submit the PR request and earn in the process.
 ### SHE's mobile app.
-SHE will be integrating sourceCred into the mobile app. This will allow both iOns and Particles to be tracked on their involvment as well. iOns will be tracked based on how many live challenge streams they are completing. While Particles will be tracked based on how frequently they are present at these livestreams and voting on the out come of the iOns performance.
+SHE will be integrating sourceCred into the mobile app. This will allow both iOns and Particles to be tracked on their involvment as well. iOns will be tracked based on how many live challenge streams they are completing. While Particles will be tracked based on how frequently they are present at these livestreams and voting on the out come of the iOns performance. While iOns will earn cred based on the frequency of streaming and the outcome of their challenges.
 
 As you can see all based on your willingness to grow, your creations, contributions to the protocol small or large and community involvement can pay off. Weather you have skills as a developer, artist, marketer or have great people skills there's enough "Cred" to go around. Every week the data is pulled and based on the amount of cred you have earned will determain the amount of $PRTCLE one will recieve.
 

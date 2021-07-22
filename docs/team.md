@@ -32,6 +32,7 @@ Aliases, full names or first names? Doxxing = trust
 
 ### Core Team
 ----------------------------
+![team](https://media.discordapp.net/attachments/810987423843483688/867570472472674344/Screenshot_128.png)
 * **YoungKidWarrior | Victor Ginelli** 
 
 * **Scone | Malik Price**

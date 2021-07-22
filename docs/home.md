@@ -22,7 +22,7 @@ No worries we were all new once, just head to SHE's [About](./about) page for a 
 
 * [Tokenomics](./tokenomics) -- Learn all about SHE's Governence Token known as $PRTCL.
 * [SHE's NFT](./nft) -- Dive into the NTF's SHE has to offer to the defi world!
-* [Livestream](./livestream) -- Dive into the NTF's SHE has to offer to the defi world!
+* [Livestream](./livestream) -- Learn about all about SHE livestreams similar to twitch.tv but better!
 
 
 ### **Technical Pages**

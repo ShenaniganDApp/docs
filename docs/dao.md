@@ -6,7 +6,7 @@ slug: dao
 ---
 
 ## HISTORY
-Since the inception of Shenanigan in June 2019, a lot has happened and should be recapped so everyone can see that we started from the bottom but now we are here! Originally just a and idea by Shenanigan Tech LLC's CEO Victor has since grown into a community with over 900+ members ready to take athletics to a whole new level! Shenanigan is currently being built on Ethereum's side chain option known as xDai. SHE and the team have continued to keep an eye on the development and growth Ethereum as more layer 2 and sidechains to ensure SHE is providing the fastest and most secure platform for Dathletes and fans alike.
+Since the inception of Shenanigan in June 2019, a lot has happened and should be recapped so everyone can see that we started from the bottom but now we are here! Originally just an idea by Shenanigan Tech LLC's CEO Victor has since grown into a community with over 900+ members ready to take athletics to a whole new level! Shenanigan is currently being built on Ethereum's side chain option known as xDai. SHE and the team have continued to keep an eye on the development and growth of Ethereum as more layer 2 and sidechains options become more avaliable to ensure SHE is providing the fastest and most secure platform for Dathletes and fans alike.
 
 ### ARAGON
 For the first 2 years of Shenanigans life Aragon was the platform of choice to create and maintain SHE's DAO. SHE is thankful for all the help Aragon played in ensuring SHE's success up to the point of parting ways. SHE believes in the future being completly open source and community driven, with this all proposals and voting was conducted through the Aragon platform. Unfortunately it grew very difficult to get votes to pass due to a small community at the time and the majority of tokens being held by non voters such as liquidity providers.
@@ -38,4 +38,4 @@ Due to the complications of getting votes passed while on Aragon SHE did some re
 
 
 ### SNAPSHOT
-[SNAPSHOT](https://snapshot.org/#/shedapp.eth) is the 2nd half of the SHEDAO Governance process. Since DAOHAUS Doesn't allow SHE users to vote using their $PRTCLE Snapshot steps up to the plate to take a swing, and whatcha know smacks it right out of the park! Any time a new propsal is brought up and submitted it is done on the Snapshot platform. Allowing all $PRTCLE HODLERS weather earned by help SHE or purchased to participate in the voting Process.
+[SNAPSHOT](https://snapshot.org/#/shedapp.eth) is the 2nd half of the SHEDAO Governance process. Since DAOHAUS Doesn't allow SHE users to vote using their $PRTCLE Snapshot steps up to the plate to take a swing, and whatcha know smacks it right out of the park! Any time a new propsal is brought up and submitted it is done on the Snapshot platform. Allowing all $PRTCLE HODLERS weather earned by help SHE or purchased to participate in the voting Process. You're voice and opinion matters so get out there and help make a change!
