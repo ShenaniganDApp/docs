@@ -1,16 +1,38 @@
 ---
 id: home
-title: INTRODUCTION
+title: Welcome
 sidebar_label: Home
 slug: /
 ---
 
-Shenanigan provides a competitive and motivating platform for athletes of all types utilizing fiscal incentives to drive personal improvement.
+## **Welcome to the Official Shenanigan Wiki**
 
-We are doing this because we believe that athletes should be payed for the hard work that they put in to train and hone their craft. Shenanigan is built by athletes for athletes to bring a different perspective to your everyday life.
+SHE welcomes you to a central point of knowledge for everything Shenanigan (SHE), maintained and updated by SHE's hard working community and core-team!
 
-Athletes spend countless hours of their lives to be able to take their game to the next level, often sacrificing relationships and time with friends and family. Few make it into the 1% of professional play, but most reach a wall where they must choose between their personal responsibilities and their sport. We offer an opportunity to integrate the athletic grind into everyday responsibilities. The platform we developed show cases athletes' skills and allows users to invest in their progression. Shenanigan uses NFTs to tokenize the athlete's progressive image and relies on a community of your pears and adversaries to generate liquidity for the athletes' token. The users (Particles) will give "energy" to the streamer (Ion) based on if they are for or against them.
+New to Shenanigan?
+No worries we were all new once, just head to SHE's [About](./about) page for a look into SHE's Universe. If you're more hands on or just wanna jump right in, join our [Discord](https://discord.gg/YKyn3njpv9) and interact without SHE's ever growing and amazing community! Dathlete, Fan or contributor SHE has a whole group of individuals ready welcome you and help show you the ropes!
 
-Shenanigan is open source therefore we encourage contribution of all types. We want everyone from contributors, fans, streamers, to someone just wanting to learn, to feel immersed within our environment, and be able to understand from the ground up who we are and what we do. If you would like to contribute take a look at our [Contributors Guide](https://she.energy/wiki/contribution/). Know a thing or two about graphic design, send us some of your work for everyone to check out. Master coder? Submit a Pull Request to one of our open source repositories.
+### **Informational Pages**
 
-The best way to become a part of Shenanigan is to join the [Discord](https://she.energy/join). In the discord you will be able to meet and get to know your fellow allies and see the daily progress Shenanigan makes. We are integrated with [SourceCred](https://sourcecred.io/). This means contributing nets you a stake in the Shenanigan community. Being active in Discord, coding, making art, or shilling on social media are some ways to earn the community token, \$PRTCLE. As a community based around like minds, we are built by the community for the community, pushing each other to improve a common goal because together, WE are SHE.
+* [About](./about) -- Introduction to SHE's Universe.
+* [FAQ](./faq) -- A simple faq (frequently asked questions) page pertaining to all things SHE.
+* [Glossary](./glossary) -- Quick overview of SHE specific terms to help you understand her lingo.
+
+### **$PRTCLE Token Pages**
+
+* [Tokenomics](./tokenomics) -- Learn all about SHE's Governance Token known as $PRTCLE.
+* [SHE's NFT](./nft) -- Dive into the NTF's SHE has to offer to the defi world!
+* [Livestream](./livestream) -- Learn about all about SHE livestreams similar to twitch.tv but better!
+
+
+### **Technical Pages**
+* [Contribution Guide](./contribution) -- A place detailing how you can help SHE and all the dathletes and fans around the world!
+* [Pink Paper](./pinkpaper) -- A technical break down of how SHE works.
+* [Team](./team) -- See who help's build SHE's universe which monetizes dathletes all around the world!
+
+Don't waste anytime dive in and start earning cred right away! SHE and the community happily await you.
+
+
+
+<!-- Need to fill out our road map 
+* [Roadmap](./roadmap) -- The up-to-date roadmap, SHE welcomes you to see the vision -->
