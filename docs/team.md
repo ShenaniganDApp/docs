@@ -1,12 +1,13 @@
 ---
 id: team
-title: SHE's TEAM 👪 
+title: SHE's TEAM 👪
 sidebar_label: Team
-slug: team
+slug: /legacy/team
 ---
 
 ## TEAM
->SHE is a project built by a decentralized team of contributors from all over the world.
+
+> SHE is a project built by a decentralized team of contributors from all over the world.
 
 We are fully community-driven and eschew traditional corporate heirarchy. All top-level governance is publicly voted on via Snapshot, and prime-level governance is handled via our core team on DAOHaus.
 
@@ -14,32 +15,38 @@ We are fully community-driven and eschew traditional corporate hierarchy. All to
 
 Aliases, full names or first names? Doxxing = trust
 
-----------------------------
+---
+
 ### Core Team
-----------------------------
+
+---
+
 ![team](../static/img/team/team.png)
 
-* **YoungKidWarrior | Victor Ginelli** 
+- **YoungKidWarrior | Victor Ginelli**
 
-* **Scone | Malik Price**
+- **Scone | Malik Price**
 
-* **Chair | Arron B.**
+- **Chair | Arron B.**
 
-* **Shax | Tawnee A.**
+- **Shax | Tawnee A.**
 
-* **Drew Samson**
+- **Drew Samson**
 
-* **Kitty | David J.**
+- **Kitty | David J.**
 
-* **Kilgore | Mark Stone**
+- **Kilgore | Mark Stone**
 
-----------------------------
+---
+
 ### Advisors
-----------------------------
+
+---
+
 ![Advisors](../static/img/team/advisors.png)
 
-* **Robert Lionhard - Lawyer**
+- **Robert Lionhard - Lawyer**
 
-* **Cawfree - Dev, TheGraph**
+- **Cawfree - Dev, TheGraph**
 
-* **Yalor - MetaCartel, Gitcoin**
+- **Yalor - MetaCartel, Gitcoin**
