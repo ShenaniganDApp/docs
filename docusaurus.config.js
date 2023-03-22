@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'SHE Docs',
 	tagline: 'SHE wants you to win',
-	url: 'https://www.she.energy/docs',
+	url: 'https://www.she.energy',
 	baseUrl: '/docs/',
 	onBrokenLinks: 'warn',
 	onBrokenMarkdownLinks: 'warn',
