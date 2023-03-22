@@ -1,6 +1,6 @@
 ---
 id: home-v2
-title: Home
+title: HOME
 sidebar_label: Home
 slug: /
 ---
