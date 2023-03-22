@@ -1,6 +1,6 @@
 ---
 id: about-v2
-title: About
+title: ABOUT
 sidebar_label: About
 slug: /about
 ---

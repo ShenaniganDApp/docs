@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: {
     'START HERE': ['home-v2', 'about-v2'],
+    SHENANIGAN: ['particle-predictions-v2'],
     Legacy: [
       {
         type: 'category',
