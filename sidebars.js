@@ -1,5 +1,6 @@
 module.exports = {
   someSidebar: {
+    'START HERE': ['home-v2', 'about-v2'],
     Legacy: [
       {
         type: 'category',
