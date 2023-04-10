@@ -2,7 +2,7 @@
 id: contribution
 title: CONTRIBUTION GUIDE
 sidebar_label: Contribution Guide
-slug: contribution
+slug: legacy/contribution
 ---
 
 <p class='big'>
@@ -39,18 +39,18 @@ We like to pretend that we are building an 80's olympic game event in the year 2
 
 **_Tips_**
 
-* Check our [design doc](./na).
+- Check our [design doc](./na).
 
-* Ask @team on the discord for pointers.
+- Ask @team on the discord for pointers.
 
-* Make something and post it to the discord! You'll earn some Cred, which will determained the amount of SHE's governance token $PRTCLE you will be airdropped weakly!
+- Make something and post it to the discord! You'll earn some Cred, which will determained the amount of SHE's governance token $PRTCLE you will be airdropped weakly!
 
 ### Marketers 📈
-The next link in the chain is important in spreading the word of SHE. With an amazing community and core team working diligently to get the platform built up and content to share SHE is always in search of those who have exceptional marketing skills. Think you have a new bold marketing strategy that will way to tell the world about SHE? Then waste no time and reach out to a discord community member. SHE also hosts a marketing bash every Tuesday in the discord at 9:00PM UTC, Join us and share your ideas! 
+
+The next link in the chain is important in spreading the word of SHE. With an amazing community and core team working diligently to get the platform built up and content to share SHE is always in search of those who have exceptional marketing skills. Think you have a new bold marketing strategy that will way to tell the world about SHE? Then waste no time and reach out to a discord community member. SHE also hosts a marketing bash every Tuesday in the discord at 9:00PM UTC, Join us and share your ideas!
 
 _note_
 **SHE asks you never market anything without an approval from the core team and community as to avoid communicating something that could be incorrect, misleading or damage SHE'S name and image. **
-
 
 ### Social Media Unicorns 🦄️
 
@@ -68,7 +68,6 @@ Shenanigan is on [Reddit](https://www.reddit.com/r/SheDapp), [Twitter](https://t
 💱️ Step 4. Profit?
 ```
 
-## Whats in it for you? 
+## Whats in it for you?
 
 Besides making history and helping build a social media platform that's never been seen before. All of those who step up to the challenge will be rewarded in SHE'S governance token. Check out the [tokenomics page](./tokenomics#weekly-distrubution) or ask one of our community members for more information.
-

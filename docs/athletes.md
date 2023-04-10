@@ -2,11 +2,12 @@
 id: athletes
 title: ATHLETES
 sidebar_label: Athletes
-slug: athletes
+slug: legacy/athletes
 ---
 
 ## ** What is Shenanigan? ** 🤸‍♀️
-Shenanigan is an open source platform created for athletes and by athletes. We are creating a world where athletes can receive direct rewards for challenging themselves and pushing their own limits. Shenanigan wants to give athletes a platform to grow and earn at the same time. SHE achieves this by creating challenges specific to an athletes sport. Complete or fail athletes can earn rewards by trying to complete these challenges. *i.e. Complete a kickflip, or run 1500m”. This motivates the athlete to never give up while giving historical data of the athlete's growth. These accolades are tokenized and given to the athletes as a rare digital collectible. Athletes will be able to build a community that values their efforts and love for their sport. Members of these communities will be able to make donations to athletes, helping fuel their dreams. SHE is here to help you!
+
+Shenanigan is an open source platform created for athletes and by athletes. We are creating a world where athletes can receive direct rewards for challenging themselves and pushing their own limits. Shenanigan wants to give athletes a platform to grow and earn at the same time. SHE achieves this by creating challenges specific to an athletes sport. Complete or fail athletes can earn rewards by trying to complete these challenges. \*i.e. Complete a kickflip, or run 1500m”. This motivates the athlete to never give up while giving historical data of the athlete's growth. These accolades are tokenized and given to the athletes as a rare digital collectible. Athletes will be able to build a community that values their efforts and love for their sport. Members of these communities will be able to make donations to athletes, helping fuel their dreams. SHE is here to help you!
 
 ## ** Why does SHE do it? **!🏆
 
@@ -20,30 +21,25 @@ Our athletes download the Shenanigan mobile app and register for an athlete acco
 
 Example:
 
-> __**What sport do you play?**__
->    
+> ****What sport do you play?****
 >
 > Athletics
 >
-> __**What specific category of sport?**__
->    
+> ****What specific category of sport?****
 >
 > Medium distance running - 1500m
-> 
-> __**Add a title for your challenge**__
->     
-> 
+>
+> ****Add a title for your challenge****
+>
 > Run 1500m in less than 5 minutes
-> 
-> 
-> **__Describe the challenge you are about to attempt**__
->     
-> 
+>
+> **\_\_Describe the challenge you are about to attempt**\_\_
+>
 > I want to run 1500m in less than 5 minutes
 
 After completing this information that will be the initial date of the athletes challenge, SHE mints the rare digital collectible card known as a “Challenge card”, along with its respective FAN Tokens and FAN CLUB. As the athlete attempts to complete these challenges they must livestream proof to the Shenanigan app where all the app users can vote on whether or not the athlete completed the challenge.
 
-*For more indepth of NRG Collectable cards read more at https://shenanigan.substack.com/p/she-teaches-you-about-dathletes*
+_For more indepth of NRG Collectable cards read more at https://shenanigan.substack.com/p/she-teaches-you-about-dathletes_
 
 ## * How do they benefit? *💰
 
@@ -60,6 +56,7 @@ Donations, live challenges and card exchanges make up the total reward the athle
 “Choose a job you love and you will never have to work a day in your life” - Confucius
 
 ## *To achieve this; SHE has arrived *💖
+
 Arisen from the ether, motivated by the oppressed and forgotten, SHE was born out of the love that athletes feel for their sport. SHE has been formed to bring a new world to athletes. SHE heard their cries for better opportunities, SHE responds to blood, sweat and tears. Her reason for being here is to reward those who think they have been forgotten. SHE sees everything and remembers each athlete's attempt to improve.
 
 SHE controls with its great power the inner workings of the Shenanigan world. SHE is there to empower athletes and reward them for their success. It is SHE that provides us with a window into the realm of athletes, harnessing the threads of reality to transfer data through the world of Shenanigan.

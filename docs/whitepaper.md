@@ -2,7 +2,7 @@
 id: whitepaper
 title: WHITEPAPER VERSION 0.3
 sidebar_label: Whitepaper
-slug: whitepaper
+slug: /legacy/whitepaper
 ---
 
 Written by @youngkidwarrior @malikvprice
