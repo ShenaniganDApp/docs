@@ -2,6 +2,15 @@
 
 Shenanigan wiki
 
+## Current state
+
+Production builds temporarily display a plain coming-soon page while Docs V2 is in development.
+Run `yarn start` to work on the full docs with their sidebar and existing styling.
+Run `yarn build` and `yarn serve` to preview the production placeholder. Documentation
+routes are excluded from production output; blog generation stays disabled in both modes.
+See [the V2 work index](docs/plans/v2-index.md) for open PRs, the restoration plan,
+and publishing checks. The placeholder is defined in `src/pages/index.md`.
+
 ## Info
 
 This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
