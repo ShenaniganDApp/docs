@@ -4,7 +4,7 @@ module.exports = {
 	url: 'https://www.she.energy',
 	baseUrl: '/',
 	onBrokenLinks: 'warn',
-	onBrokenMarkdownLinks: 'warn',
+	markdown: {hooks: {onBrokenMarkdownLinks: 'warn'}},
 	favicon: '/img/favicon.ico',
 	organizationName: 'ShenaniganDApp', // Usually your GitHub org/user name.
 	projectName: 'docs', // Usually your repo name.
@@ -89,6 +89,7 @@ module.exports = {
 			'@docusaurus/preset-classic',
 			{
 				docs: {
+					exclude: ['plans/**'],
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
 					editUrl: 'https://github.com/ShenaniganDApp/docs/',

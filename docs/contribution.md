@@ -5,7 +5,7 @@ sidebar_label: Contribution Guide
 slug: contribution
 ---
 
-<p class='big'>
+<p className='big'>
 👊️ SHE WANTS YOU 👊️
 </p>
 
@@ -71,4 +71,3 @@ Shenanigan is on [Reddit](https://www.reddit.com/r/SheDapp), [Twitter](https://t
 ## Whats in it for you? 
 
 Besides making history and helping build a social media platform that's never been seen before. All of those who step up to the challenge will be rewarded in SHE'S governance token. Check out the [tokenomics page](./tokenomics#weekly-distrubution) or ask one of our community members for more information.
-
