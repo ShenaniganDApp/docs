@@ -4,12 +4,15 @@ Shenanigan wiki
 
 ## Info
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
 
 ## Installation
 
+Requires Node.js 20 or newer and Yarn Classic 1.22.22. Verified with Node.js
+20.20.2. No OpenSSL compatibility flags are needed.
+
 ```console
-yarn install
+yarn install --frozen-lockfile
 ```
 
 ## Local Development
@@ -19,6 +22,12 @@ yarn start
 ```
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+
+For a local server without opening a browser, or when port 3000 is occupied:
+
+```console
+yarn start --no-open --host 127.0.0.1 --port 3107
+```
 
 ## Build
 
