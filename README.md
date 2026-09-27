@@ -12,6 +12,8 @@ See [the V2 work index](docs/plans/v2-index.md) for open PRs, the restoration pl
 and publishing checks. The placeholder is defined in `src/pages/index.jsx`.
 
 The production page loops a muted, inline video selected by viewport orientation.
+The complete frame stays centered and proportional when resized; black margins
+fill any space left by a different viewport aspect ratio.
 The files in `static/media/coming-soon/` are served directly rather than bundled
 into JavaScript. Landscape keeps 1920×1080 resolution; portrait uses 720×1280.
 Both are H.264 MP4, 30 fps, encoded with CRF 25, the slow preset, yuv420p, no audio,
