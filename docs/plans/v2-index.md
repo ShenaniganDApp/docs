@@ -1,6 +1,6 @@
 # Docs V2 work index
 
-Production is temporarily a plain coming-soon page. `yarn start` exposes the full documentation from `docs/` with the sidebar and existing CSS. `docusaurus.config.js` enables docs only when `NODE_ENV` is `development`; production enables the placeholder in `src/pages/index.md` instead. Blog remains disabled in both modes. New styling is deferred by request. This state is local and has not been published.
+Production is temporarily a video-only coming-soon page. `yarn start` exposes the full documentation from `docs/` with the sidebar and existing CSS. `docusaurus.config.js` enables docs only when `NODE_ENV` is `development`; production enables the placeholder in `src/pages/index.jsx` instead. Blog remains disabled in both modes. New styling is deferred by request. This state is local and has not been published.
 
 ## Open PR snapshot — 2026-09-07
 
@@ -21,7 +21,7 @@ The index is based on live PR metadata and file lists, not a completed code or e
 3. Inventory V2 topics: welcome, about, predictions, lore, legacy reference. Confirm product accuracy, ownership, route names, and navigation. Review the remaining legacy content before deciding whether it belongs in V2.
 4. Resolve known legacy broken links: `/docs/contribution-guide`, `./na`, `.//she-nft#market-place`, and `./tokenomics#weekly-distrubution` before restoring docs.
 5. Implement styling in a separate pass after direction is agreed.
-6. At V2 release, enable docs in production deliberately and remove or move `src/pages/index.md` before assigning a docs page to `/`. Preserve the `plans/**` exclusion. Development already exposes docs at `/`; the pages plugin is disabled there to avoid a route collision.
+6. At V2 release, enable docs in production deliberately and remove or move `src/pages/index.jsx` before assigning a docs page to `/`. Preserve the `plans/**` exclusion. Development already exposes docs at `/`; the pages plugin is disabled there to avoid a route collision.
 
 ## Acceptance
 

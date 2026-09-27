@@ -4,12 +4,18 @@ Shenanigan wiki
 
 ## Current state
 
-Production builds temporarily display a plain coming-soon page while Docs V2 is in development.
+Production builds temporarily display a video-only coming-soon page while Docs V2 is in development.
 Run `yarn start` to work on the full docs with their sidebar and existing styling.
 Run `yarn build` and `yarn serve` to preview the production placeholder. Documentation
 routes are excluded from production output; blog generation stays disabled in both modes.
 See [the V2 work index](docs/plans/v2-index.md) for open PRs, the restoration plan,
-and publishing checks. The placeholder is defined in `src/pages/index.md`.
+and publishing checks. The placeholder is defined in `src/pages/index.jsx`.
+
+The production page loops a muted, inline video selected by viewport orientation.
+The files in `static/media/coming-soon/` are served directly rather than bundled
+into JavaScript. Landscape keeps 1920×1080 resolution; portrait uses 720×1280.
+Both are H.264 MP4, 30 fps, encoded with CRF 25, the slow preset, yuv420p, no audio,
+and `+faststart`. Matching WebP first frames provide an immediate loading image.
 
 ## Info
 
