@@ -15,3 +15,26 @@
   object-fit: contain;
   object-position: center;
 }
+
+.poster,
+.tiles {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.poster {
+  background-image: var(--landscape-poster);
+  background-position: center;
+  background-repeat: repeat;
+  background-size: min(100vw, 177.77777778vh) min(100vh, 56.25vw);
+}
+
+@media (orientation: portrait) {
+  .poster {
+    background-image: var(--portrait-poster);
+    background-size: min(100vw, 56.25vh) min(100vh, 177.77777778vw);
+  }
+}
