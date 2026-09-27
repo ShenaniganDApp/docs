@@ -11,5 +11,7 @@
   display: block;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  /* Preserve the complete frame at every viewport ratio, including on resize. */
+  object-fit: contain;
+  object-position: center;
 }
