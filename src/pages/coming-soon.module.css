@@ -2,39 +2,33 @@
   position: fixed;
   inset: 0;
   overflow: hidden;
-  background: #000;
 }
 
-.visual {
+.visual,
+.poster {
   position: absolute;
   inset: 0;
   display: block;
   width: 100%;
   height: 100%;
-  /* Preserve the complete frame at every viewport ratio, including on resize. */
-  object-fit: contain;
+}
+
+.visual {
+  /* Scale the entire typographic composition to the viewport: no crop or seams. */
+  object-fit: fill;
   object-position: center;
 }
 
-.poster,
-.tiles {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-}
-
 .poster {
+  pointer-events: none;
   background-image: var(--landscape-poster);
   background-position: center;
-  background-repeat: repeat;
-  background-size: min(100vw, 177.77777778vh) min(100vh, 56.25vw);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 @media (orientation: portrait) {
   .poster {
     background-image: var(--portrait-poster);
-    background-size: min(100vw, 56.25vh) min(100vh, 177.77777778vw);
   }
 }
